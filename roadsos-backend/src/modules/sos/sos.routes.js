@@ -1,0 +1,10 @@
+const express = require('express');
+const controller = require('./sos.controller');
+const validator = require('./sos.validator');
+const validate = require('../../middleware/validate.middleware');
+const { requireAuth, authorize } = require('../../middleware/auth.middleware');
+const router = express.Router();
+router.post('/trigger', requireAuth, authorize('victim', 'admin'), validate(validator.trigger), controller.trigger);
+router.post('/:id/cancel', requireAuth, authorize('victim', 'admin'), validate(validator.cancel), controller.cancel);
+router.get('/history', requireAuth, authorize('victim', 'admin'), validate(validator.history), controller.history);
+module.exports = router;

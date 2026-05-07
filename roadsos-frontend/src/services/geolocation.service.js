@@ -1,0 +1,1 @@
+export function openGoogleMapsDirections(origin, destination) { const url = 'https://www.google.com/maps/dir/?api=1&origin=' + origin.lat + ',' + origin.lng + '&destination=' + destination.lat + ',' + destination.lng + '&travelmode=driving'; window.open(url, '_blank', 'noopener,noreferrer'); }

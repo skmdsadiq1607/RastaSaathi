@@ -1,0 +1,7 @@
+import PropTypes from 'prop-types';
+import { Link } from 'react-router-dom';
+import SeverityBadge from '../severity/SeverityBadge';
+import ETAChip from '../hospital/ETAChip';
+import { compactId } from '../../utils/formatters';
+export default function IncidentRow({ incident, onAssign, onResolve, onEscalate }) { return <tr className="border-b border-border text-sm"><td className="px-3 py-3 font-mono">{compactId(incident._id)}</td><td className="px-3 py-3">{incident.victim?.name}</td><td className="px-3 py-3"><SeverityBadge level={incident.severity?.level} /></td><td className="px-3 py-3">{incident.injuryType}</td><td className="px-3 py-3">{incident.responder?.name || 'Unassigned'}</td><td className="px-3 py-3"><ETAChip seconds={incident.route?.etaSeconds} /></td><td className="px-3 py-3">{incident.status}</td><td className="px-3 py-3"><div className="flex gap-2"><Link className="rounded bg-slate-800 px-2 py-1" to={'/responder/incident/' + incident._id}>View</Link><button onClick={() => onAssign(incident)} className="rounded bg-blue-700 px-2 py-1">Assign</button><button onClick={() => onEscalate(incident)} className="rounded bg-orange-700 px-2 py-1">Escalate</button><button onClick={() => onResolve(incident)} className="rounded bg-green-700 px-2 py-1">Resolve</button></div></td></tr>; }
+IncidentRow.propTypes = { incident: PropTypes.object.isRequired, onAssign: PropTypes.func.isRequired, onResolve: PropTypes.func.isRequired, onEscalate: PropTypes.func.isRequired };

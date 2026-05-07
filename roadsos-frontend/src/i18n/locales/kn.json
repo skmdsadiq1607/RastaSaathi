@@ -1,0 +1,28 @@
+{
+  "common": {
+    "app": "RoadSoS",
+    "login": "ಲಾಗಿನ್",
+    "logout": "ಲಾಗೌಟ್",
+    "save": "ಉಳಿಸಿ",
+    "cancel": "ರದ್ದು"
+  },
+  "sos": {
+    "activate": "ತುರ್ತು SOS ಸಕ್ರಿಯಗೊಳಿಸಿ",
+    "triggered": "SOS ಪ್ರಾರಂಭವಾಯಿತು",
+    "countdown": "ತುರ್ತು ಕೌಂಟ್‌ಡೌನ್"
+  },
+  "firstaid": {
+    "title": "AI ಪ್ರಥಮ ಚಿಕಿತ್ಸೆ",
+    "ask": "RoadSoS ಕೇಳಿ"
+  },
+  "alerts": {
+    "active": "ಸಕ್ರಿಯ ತುರ್ತು ಸ್ಥಿತಿ ಇದೆ",
+    "dispatched": "ಎಚ್ಚರಿಕೆ ಕಳುಹಿಸಲಾಗಿದೆ"
+  },
+  "dashboard": {
+    "activeSOS": "ಸಕ್ರಿಯ SOS",
+    "criticalCases": "ಗಂಭೀರ ಪ್ರಕರಣಗಳು",
+    "avgResponseTime": "ಸರಾಸರಿ ಪ್ರತಿಕ್ರಿಯೆ ಸಮಯ",
+    "resolvedToday": "ಇಂದು ಪರಿಹಾರ"
+  }
+}

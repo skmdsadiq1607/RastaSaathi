@@ -1,0 +1,38 @@
+{
+  "common": {
+    "ok": "ठीक",
+    "error": "कुछ गलत हुआ",
+    "unauthorized": "प्रमाणीकरण आवश्यक है",
+    "forbidden": "अनुमति नहीं है"
+  },
+  "sos": {
+    "triggered": "SOS शुरू हुआ",
+    "cancelled": "SOS रद्द हुआ",
+    "countdown": "आपातकालीन उलटी गिनती सक्रिय है"
+  },
+  "alerts": {
+    "responder": "रेस्पॉन्डर को सूचना भेजी गई",
+    "contact": "आपात संपर्क को सूचना भेजी गई"
+  },
+  "firstaid": {
+    "title": "प्राथमिक उपचार मार्गदर्शन",
+    "offline": "ऑफलाइन मार्गदर्शन उपलब्ध है"
+  },
+  "dashboard": {
+    "activeSOS": "सक्रिय SOS",
+    "criticalCases": "गंभीर मामले",
+    "avgResponseTime": "औसत प्रतिक्रिया समय",
+    "resolvedToday": "आज हल हुए"
+  },
+  "severity": {
+    "CRITICAL": "गंभीर",
+    "HIGH": "उच्च",
+    "MEDIUM": "मध्यम",
+    "LOW": "कम"
+  },
+  "status": {
+    "hospitalSelected": "अस्पताल चुना गया",
+    "responderDispatched": "रेस्पॉन्डर भेजा गया",
+    "workflowCompleted": "वर्कफ़्लो पूरा हुआ"
+  }
+}

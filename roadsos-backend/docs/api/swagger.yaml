@@ -1,0 +1,172 @@
+openapi: 3.0.3
+info:
+  title: RoadSoS API
+  version: 1.0.0
+servers:
+  - url: http://localhost:5000
+security:
+  - bearerAuth: []
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+  schemas:
+    ApiSuccess:
+      type: object
+      properties:
+        success: { type: boolean }
+        data: { type: object }
+        message: { type: string }
+    Location:
+      type: object
+      required: [lat, lng]
+      properties:
+        lat: { type: number, example: 17.385 }
+        lng: { type: number, example: 78.4867 }
+paths:
+  /health:
+    get:
+      security: []
+      responses: { '200': { description: Health check } }
+  /api/auth/register:
+    post:
+      security: []
+      requestBody: { required: true, content: { application/json: { example: { name: Asha, phone: '+919100000001', email: asha@example.com, password: RoadSoS123, role: victim, emergencyContacts: [{ name: Family, phone: '+919100000002' }] } } } }
+      responses: { '201': { description: Registered } }
+  /api/auth/login:
+    post:
+      security: []
+      requestBody: { required: true, content: { application/json: { example: { email: asha@example.com, password: RoadSoS123 } } } }
+      responses: { '200': { description: Logged in } }
+  /api/auth/refresh:
+    post:
+      security: []
+      responses: { '200': { description: Token refreshed } }
+  /api/auth/logout:
+    post:
+      responses: { '200': { description: Logged out } }
+  /api/auth/me:
+    get:
+      responses: { '200': { description: Current profile } }
+  /api/auth/fcm-token:
+    post:
+      requestBody: { required: true, content: { application/json: { example: { token: fcm_device_token } } } }
+      responses: { '200': { description: FCM token saved } }
+  /api/auth/forgot-password:
+    post:
+      security: []
+      requestBody: { required: true, content: { application/json: { example: { phone: '+919100000001' } } } }
+      responses: { '200': { description: OTP sent } }
+  /api/auth/reset-password:
+    post:
+      security: []
+      requestBody: { required: true, content: { application/json: { example: { phone: '+919100000001', otp: '123456', password: NewRoadSoS123 } } } }
+      responses: { '200': { description: Password reset } }
+  /api/sos/trigger:
+    post:
+      requestBody: { required: true, content: { application/json: { example: { lat: 17.385, lng: 78.4867, injuryType: head injury, vehicleType: two-wheeler } } } }
+      responses: { '201': { description: SOS created and workflow queued } }
+  /api/voice/trigger:
+    post:
+      requestBody: { required: false, content: { application/json: { example: { transcript: help accident emergency, lat: 17.385, lng: 78.4867, language: en } } } }
+      responses: { '200': { description: Voice processed } }
+  /api/voice/stream:
+    post:
+      requestBody: { required: true, content: { multipart/form-data: { schema: { type: object, properties: { audio: { type: string, format: binary }, language: { type: string } } } } } }
+      responses: { '200': { description: Audio stream processed } }
+  /api/voice/cancel:
+    post:
+      requestBody: { required: true, content: { application/json: { example: { voiceEventId: 665000000000000000000000 } } } }
+      responses: { '200': { description: Voice SOS cancelled } }
+  /api/severity/predict:
+    post:
+      requestBody: { required: true, content: { application/json: { example: { speed: 70, impactForce: 5.2, vehicleType: two-wheeler, injuryDescription: bleeding head injury, consciousnessLevel: confused, age: 32 } } } }
+      responses: { '201': { description: Severity prediction } }
+  /api/hospital/select:
+    post:
+      requestBody: { required: true, content: { application/json: { example: { lat: 17.385, lng: 78.4867, severityLevel: CRITICAL, injuryType: head injury } } } }
+      responses: { '200': { description: Ranked top 3 hospitals } }
+  /api/routing/calculate:
+    post:
+      requestBody: { required: true, content: { application/json: { example: { origin: { lat: 17.385, lng: 78.4867 }, destination: { lat: 17.415059, lng: 78.412301 }, severityLevel: CRITICAL } } } }
+      responses: { '201': { description: Route calculated } }
+  /api/firstaid/guide:
+    post:
+      requestBody: { required: true, content: { application/json: { example: { injuryType: bleeding, severityLevel: HIGH, resourcesAvailable: [clean cloth], language: en } } } }
+      responses: { '201': { description: First aid session } }
+  /api/firstaid/followup:
+    post:
+      requestBody: { required: true, content: { application/json: { example: { sessionId: 665000000000000000000000, question: What if bleeding continues? } } } }
+      responses: { '200': { description: Follow-up answer } }
+  /api/workflow/{incidentId}/status:
+    get:
+      parameters: [{ in: path, name: incidentId, required: true, schema: { type: string } }]
+      responses: { '200': { description: Pipeline state } }
+  /api/fallback/sms/webhook:
+    post:
+      security: []
+      requestBody: { required: true, content: { application/x-www-form-urlencoded: { schema: { type: object, properties: { From: { type: string }, Body: { type: string }, MessageSid: { type: string } } } } } }
+      responses: { '200': { description: Twilio webhook response } }
+  /api/language/detect:
+    post:
+      security: []
+      requestBody: { required: true, content: { application/json: { example: { text: मदद चाहिए } } } }
+      responses: { '200': { description: Language detected } }
+  /api/transparency/{incidentId}:
+    get:
+      parameters: [{ in: path, name: incidentId, required: true, schema: { type: string } }]
+      responses: { '200': { description: AI decisions } }
+  /api/resources/update:
+    post:
+      requestBody: { required: true, content: { application/json: { example: { hospitalId: 665000000000000000000000, icuBeds: 12, ventilators: 8, bloodUnits: { A: 10, B: 8, O: 18, AB: 4 }, ambulancesAvailable: 3, traumaTeamOnDuty: true } } } }
+      responses: { '200': { description: Resources updated } }
+  /api/resources/match:
+    get:
+      parameters: [{ in: query, name: lat, required: true, schema: { type: number } }, { in: query, name: lng, required: true, schema: { type: number } }, { in: query, name: severityLevel, required: true, schema: { type: string } }]
+      responses: { '200': { description: Best resource match } }
+  /api/timeline/{incidentId}:
+    get:
+      parameters: [{ in: path, name: incidentId, required: true, schema: { type: string } }]
+      responses: { '200': { description: Timeline } }
+  /api/dashboard/live:
+    get:
+      responses: { '200': { description: Active incidents } }
+  /api/dashboard/stats:
+    get:
+      responses: { '200': { description: Dashboard stats } }
+  /api/dashboard/incident/{id}/assign:
+    post:
+      parameters: [{ in: path, name: id, required: true, schema: { type: string } }]
+      responses: { '200': { description: Assigned } }
+  /api/dashboard/incident/{id}/resolve:
+    post:
+      parameters: [{ in: path, name: id, required: true, schema: { type: string } }]
+      responses: { '200': { description: Resolved } }
+  /api/dashboard/incident/{id}/escalate:
+    post:
+      parameters: [{ in: path, name: id, required: true, schema: { type: string } }]
+      responses: { '200': { description: Escalated } }
+  /api/insights/hotspots:
+    get:
+      responses: { '200': { description: GeoJSON hotspots } }
+  /api/insights/trends:
+    get:
+      parameters: [{ in: query, name: period, schema: { type: string, enum: [7d, 30d, 90d] } }]
+      responses: { '200': { description: Trend metrics } }
+  /api/summary/generate:
+    post:
+      requestBody: { required: true, content: { application/json: { example: { incidentId: 665000000000000000000000 } } } }
+      responses: { '201': { description: Summary generated } }
+  /api/summary/{incidentId}:
+    get:
+      parameters: [{ in: path, name: incidentId, required: true, schema: { type: string } }]
+      responses: { '200': { description: Summary } }
+  /api/admin/queues/status:
+    get:
+      responses: { '200': { description: Queue status } }
+  /api/admin/queue/{name}/retry:
+    post:
+      parameters: [{ in: path, name: name, required: true, schema: { type: string } }]
+      responses: { '200': { description: Failed jobs retried } }

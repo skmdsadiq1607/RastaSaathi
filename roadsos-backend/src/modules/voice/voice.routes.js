@@ -1,0 +1,12 @@
+const express = require('express');
+const multer = require('multer');
+const controller = require('./voice.controller');
+const validator = require('./voice.validator');
+const validate = require('../../middleware/validate.middleware');
+const { requireAuth, authorize } = require('../../middleware/auth.middleware');
+const router = express.Router();
+const upload = multer({ storage: multer.memoryStorage(), limits: { fileSize: 10 * 1024 * 1024 } });
+router.post('/trigger', requireAuth, authorize('victim', 'admin'), validate(validator.trigger), controller.trigger);
+router.post('/stream', requireAuth, authorize('victim', 'admin'), upload.single('audio'), controller.stream);
+router.post('/cancel', requireAuth, authorize('victim', 'admin'), validate(validator.cancel), controller.cancel);
+module.exports = router;

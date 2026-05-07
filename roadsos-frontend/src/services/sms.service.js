@@ -1,0 +1,1 @@
+export function sendSmsFallback({ user, location, payload }) { const body = encodeURIComponent('SOS|' + location.lat + ',' + location.lng + '|' + (payload.injuryType || 'unknown')); const phone = user?.emergencyContacts?.[0]?.phone || '112'; window.location.href = 'sms:' + phone + '?body=' + body; }

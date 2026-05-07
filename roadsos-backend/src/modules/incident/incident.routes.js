@@ -1,0 +1,10 @@
+const express = require('express');
+const controller = require('./incident.controller');
+const validator = require('./incident.validator');
+const validate = require('../../middleware/validate.middleware');
+const { requireAuth } = require('../../middleware/auth.middleware');
+const router = express.Router();
+router.get('/', requireAuth, validate(validator.list), controller.list);
+router.get('/:id', requireAuth, validate(validator.id), controller.get);
+router.post('/:id/arrived', requireAuth, validate(validator.id), controller.arrived);
+module.exports = router;

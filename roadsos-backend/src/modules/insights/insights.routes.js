@@ -1,0 +1,10 @@
+const express = require('express');
+const Joi = require('joi');
+const controller = require('./insights.controller');
+const validate = require('../../middleware/validate.middleware');
+const { requireAuth, authorize } = require('../../middleware/auth.middleware');
+const router = express.Router();
+const periodQuery = { query: Joi.object({ period: Joi.string().valid('7d', '30d', '90d').default('30d') }) };
+router.get('/hotspots', requireAuth, authorize('admin'), validate(periodQuery), controller.hotspots);
+router.get('/trends', requireAuth, authorize('admin'), validate(periodQuery), controller.trends);
+module.exports = router;

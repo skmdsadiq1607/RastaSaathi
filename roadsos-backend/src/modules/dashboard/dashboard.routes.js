@@ -1,0 +1,14 @@
+const express = require('express');
+const Joi = require('joi');
+const controller = require('./dashboard.controller');
+const validate = require('../../middleware/validate.middleware');
+const { requireAuth, authorize } = require('../../middleware/auth.middleware');
+const router = express.Router();
+const idParam = { params: Joi.object({ id: Joi.string().required() }) };
+router.get('/live', requireAuth, authorize('responder', 'admin'), controller.live);
+router.get('/stats', requireAuth, authorize('admin'), controller.stats);
+router.get('/feed', requireAuth, authorize('responder', 'admin'), controller.feed);
+router.post('/incident/:id/assign', requireAuth, authorize('responder', 'admin'), validate({ ...idParam, body: Joi.object({ responderId: Joi.string().optional() }) }), controller.assign);
+router.post('/incident/:id/resolve', requireAuth, authorize('responder', 'admin'), validate({ ...idParam, body: Joi.object({ outcome: Joi.string().optional() }) }), controller.resolve);
+router.post('/incident/:id/escalate', requireAuth, authorize('responder', 'admin'), validate({ ...idParam, body: Joi.object({ reason: Joi.string().optional() }) }), controller.escalate);
+module.exports = router;

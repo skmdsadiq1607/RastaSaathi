@@ -1,0 +1,1 @@
+export default function FirstAidTyping() { return <div className="flex gap-1 rounded bg-white p-3 text-slate-700"><span className="h-2 w-2 animate-bounce rounded-full bg-slate-400" /><span className="h-2 w-2 animate-bounce rounded-full bg-slate-400 delay-100" /><span className="h-2 w-2 animate-bounce rounded-full bg-slate-400 delay-200" /></div>; }

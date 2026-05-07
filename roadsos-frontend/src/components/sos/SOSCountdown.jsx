@@ -1,0 +1,5 @@
+import PropTypes from 'prop-types';
+import { motion } from 'framer-motion';
+import { useEffect } from 'react';
+export default function SOSCountdown({ seconds, onCancel }) { useEffect(() => { const audio = new Audio('/sounds/sos-alert.mp3'); audio.play().catch(() => {}); }, [seconds]); const offset = 283 - (seconds / 10) * 283; return <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className="grid place-items-center"><svg viewBox="0 0 100 100" className="h-48 w-48 -rotate-90"><circle cx="50" cy="50" r="45" className="fill-transparent stroke-slate-700" strokeWidth="8" /><motion.circle cx="50" cy="50" r="45" className="fill-transparent stroke-red-500" strokeWidth="8" strokeDasharray="283" animate={{ strokeDashoffset: offset }} /></svg><button aria-label="Cancel SOS countdown" onClick={onCancel} className="absolute rounded-full bg-white px-6 py-4 text-2xl font-black text-red-700">{seconds}<span className="block text-xs">CANCEL</span></button></motion.div>; }
+SOSCountdown.propTypes = { seconds: PropTypes.number.isRequired, onCancel: PropTypes.func.isRequired };

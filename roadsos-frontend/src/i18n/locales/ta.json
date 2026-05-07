@@ -1,0 +1,28 @@
+{
+  "common": {
+    "app": "RoadSoS",
+    "login": "உள்நுழை",
+    "logout": "வெளியேறு",
+    "save": "சேமி",
+    "cancel": "ரத்து"
+  },
+  "sos": {
+    "activate": "அவசர SOS இயக்கவும்",
+    "triggered": "SOS தொடங்கியது",
+    "countdown": "அவசர கவுண்ட்டவுன்"
+  },
+  "firstaid": {
+    "title": "AI முதல் உதவி",
+    "ask": "RoadSoS ஐ கேளுங்கள்"
+  },
+  "alerts": {
+    "active": "செயலில் அவசரம் உள்ளது",
+    "dispatched": "எச்சரிக்கை அனுப்பப்பட்டது"
+  },
+  "dashboard": {
+    "activeSOS": "செயலில் SOS",
+    "criticalCases": "மிக அவசர வழக்குகள்",
+    "avgResponseTime": "சராசரி பதில் நேரம்",
+    "resolvedToday": "இன்று தீர்வு"
+  }
+}

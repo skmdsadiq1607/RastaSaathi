@@ -1,0 +1,28 @@
+{
+  "common": {
+    "app": "RoadSoS",
+    "login": "లాగిన్",
+    "logout": "లాగౌట్",
+    "save": "సేవ్",
+    "cancel": "రద్దు"
+  },
+  "sos": {
+    "activate": "అత్యవసర SOS ప్రారంభించండి",
+    "triggered": "SOS ప్రారంభమైంది",
+    "countdown": "అత్యవసర కౌంట్‌డౌన్"
+  },
+  "firstaid": {
+    "title": "AI మొదటి చికిత్స",
+    "ask": "RoadSoS ని అడగండి"
+  },
+  "alerts": {
+    "active": "సక్రియ అత్యవసరం కొనసాగుతోంది",
+    "dispatched": "హెచ్చరిక పంపబడింది"
+  },
+  "dashboard": {
+    "activeSOS": "సక్రియ SOS",
+    "criticalCases": "తీవ్ర కేసులు",
+    "avgResponseTime": "సగటు స్పందన సమయం",
+    "resolvedToday": "ఈ రోజు పరిష్కారం"
+  }
+}

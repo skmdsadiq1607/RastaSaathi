@@ -1,0 +1,1 @@
+export function buildSosPayload(location, assessment) { return { lat: location.lat, lng: location.lng, injuryType: assessment.injuryType || 'unknown', vehicleType: assessment.vehicleType || 'unknown', consciousnessLevel: assessment.consciousnessLevel || 'conscious' }; }

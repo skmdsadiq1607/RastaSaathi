@@ -1,0 +1,28 @@
+{
+  "common": {
+    "app": "RoadSoS",
+    "login": "Login",
+    "logout": "Logout",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "sos": {
+    "activate": "Activate Emergency SOS",
+    "triggered": "SOS triggered",
+    "countdown": "Emergency countdown"
+  },
+  "firstaid": {
+    "title": "AI First Aid",
+    "ask": "Ask RoadSoS"
+  },
+  "alerts": {
+    "active": "Active emergency in progress",
+    "dispatched": "Alert dispatched"
+  },
+  "dashboard": {
+    "activeSOS": "Active SOS",
+    "criticalCases": "Critical Cases",
+    "avgResponseTime": "Average Response Time",
+    "resolvedToday": "Resolved Today"
+  }
+}

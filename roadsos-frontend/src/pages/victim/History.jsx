@@ -1,0 +1,7 @@
+import { Link } from 'react-router-dom';
+import SeverityBadge from '../../components/severity/SeverityBadge';
+import EmptyState from '../../components/shared/EmptyState';
+import { useGenerateSummaryMutation } from '../../features/summary/summary.api';
+import { useHistoryQuery } from '../../features/sos/sos.api';
+import { formatDate } from '../../utils/formatters';
+export default function History() { const { data } = useHistoryQuery({ page: 1, limit: 20 }); const [generate] = useGenerateSummaryMutation(); const incidents = data?.data?.items || []; if (!incidents.length) return <EmptyState title="No incidents yet" body="Your RoadSoS history appears after an emergency workflow completes." />; return <div className="space-y-3"><h1 className="text-2xl font-bold">Incident History</h1>{incidents.map((incident) => <article key={incident._id} className="rounded border border-border bg-surface p-4"><div className="flex items-center justify-between"><p className="font-semibold">{formatDate(incident.createdAt)}</p><SeverityBadge level={incident.severity?.level} /></div><p className="mt-2 text-sm text-slate-300">Hospital: {incident.selectedHospital?.name || 'Pending'} · Outcome: {incident.outcome}</p><div className="mt-3 flex gap-2"><Link className="rounded bg-slate-800 px-3 py-2 text-sm" to={'/timeline/' + incident._id}>Timeline</Link><button onClick={() => generate(incident._id)} className="rounded bg-red-600 px-3 py-2 text-sm">Generate summary</button></div></article>)}</div>; }

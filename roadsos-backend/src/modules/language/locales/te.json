@@ -1,0 +1,38 @@
+{
+  "common": {
+    "ok": "సరే",
+    "error": "ఏదో తప్పు జరిగింది",
+    "unauthorized": "ప్రామాణీకరణ అవసరం",
+    "forbidden": "అనుమతి లేదు"
+  },
+  "sos": {
+    "triggered": "SOS ప్రారంభమైంది",
+    "cancelled": "SOS రద్దయింది",
+    "countdown": "అత్యవసర కౌంట్‌డౌన్ సక్రియంగా ఉంది"
+  },
+  "alerts": {
+    "responder": "స్పందనదారునికి హెచ్చరిక పంపబడింది",
+    "contact": "అత్యవసర సంప్రదింపుకు హెచ్చరిక పంపబడింది"
+  },
+  "firstaid": {
+    "title": "మొదటి చికిత్స మార్గదర్శకం",
+    "offline": "ఆఫ్‌లైన్ మార్గదర్శకం అందుబాటులో ఉంది"
+  },
+  "dashboard": {
+    "activeSOS": "సక్రియ SOS",
+    "criticalCases": "తీవ్ర కేసులు",
+    "avgResponseTime": "సగటు స్పందన సమయం",
+    "resolvedToday": "ఈ రోజు పరిష్కరించబడినవి"
+  },
+  "severity": {
+    "CRITICAL": "తీవ్రం",
+    "HIGH": "అధికం",
+    "MEDIUM": "మధ్యస్థం",
+    "LOW": "తక్కువ"
+  },
+  "status": {
+    "hospitalSelected": "ఆసుపత్రి ఎంపికైంది",
+    "responderDispatched": "స్పందనదారు పంపబడ్డారు",
+    "workflowCompleted": "వర్క్‌ఫ్లో పూర్తయింది"
+  }
+}

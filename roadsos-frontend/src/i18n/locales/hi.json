@@ -1,0 +1,28 @@
+{
+  "common": {
+    "app": "RoadSoS",
+    "login": "लॉगिन",
+    "logout": "लॉगआउट",
+    "save": "सहेजें",
+    "cancel": "रद्द करें"
+  },
+  "sos": {
+    "activate": "आपात SOS सक्रिय करें",
+    "triggered": "SOS शुरू हुआ",
+    "countdown": "आपात उलटी गिनती"
+  },
+  "firstaid": {
+    "title": "AI प्राथमिक उपचार",
+    "ask": "RoadSoS से पूछें"
+  },
+  "alerts": {
+    "active": "सक्रिय आपातकाल जारी है",
+    "dispatched": "अलर्ट भेजा गया"
+  },
+  "dashboard": {
+    "activeSOS": "सक्रिय SOS",
+    "criticalCases": "गंभीर मामले",
+    "avgResponseTime": "औसत प्रतिक्रिया समय",
+    "resolvedToday": "आज हल हुए"
+  }
+}

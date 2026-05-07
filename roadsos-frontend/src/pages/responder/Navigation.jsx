@@ -1,0 +1,6 @@
+import { useParams, Link } from 'react-router-dom';
+import EmergencyMap from '../../components/map/EmergencyMap';
+import ETAChip from '../../components/hospital/ETAChip';
+import useGeolocation from '../../hooks/useGeolocation';
+import { useGetIncidentQuery, useMarkArrivedMutation } from '../../features/incident/incident.api';
+export default function Navigation() { const { incidentId } = useParams(); const { coords } = useGeolocation(); const { data } = useGetIncidentQuery(incidentId, { pollingInterval: 30000 }); const [arrived] = useMarkArrivedMutation(); const incident = data?.data; const destination = incident?.location?.coordinates ? { lat: incident.location.coordinates[1], lng: incident.location.coordinates[0] } : null; return <div className="space-y-4"><div className="h-[600px] overflow-hidden rounded border border-border"><EmergencyMap incidents={incident ? [incident] : []} userLocation={coords} responderLocation={destination} route={incident?.route} /></div><div className="flex items-center gap-3 rounded border border-border bg-surface p-4"><ETAChip seconds={incident?.route?.etaSeconds || 0} /><button onClick={() => arrived(incidentId)} className="rounded bg-green-700 px-4 py-3">I have arrived</button><Link to={'/responder/handoff/' + incidentId} className="rounded bg-red-600 px-4 py-3">Handoff</Link></div></div>; }

@@ -1,0 +1,2 @@
+import { Link } from 'react-router-dom';
+export default function Unauthorized() { return <div className="grid min-h-[60vh] place-items-center text-center"><div><h1 className="text-2xl font-bold">Unauthorized</h1><p className="mt-2 text-slate-400">Your account role cannot access this RoadSoS area.</p><Link to="/" className="mt-3 inline-block rounded bg-red-600 px-4 py-2">Go home</Link></div></div>; }

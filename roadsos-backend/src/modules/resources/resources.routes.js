@@ -1,0 +1,10 @@
+const express = require('express');
+const controller = require('./resources.controller');
+const validator = require('./resources.validator');
+const validate = require('../../middleware/validate.middleware');
+const { requireAuth, authorize } = require('../../middleware/auth.middleware');
+const router = express.Router();
+router.get('/', requireAuth, controller.list);
+router.get('/match', requireAuth, validate(validator.match), controller.match);
+router.post('/update', requireAuth, authorize('responder', 'admin'), validate(validator.update), controller.update);
+module.exports = router;

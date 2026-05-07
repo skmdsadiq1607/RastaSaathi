@@ -1,0 +1,2 @@
+import useOnlineStatus from '../../hooks/useOnlineStatus';
+export default function OfflineBanner() { const { isOnline, wasOffline } = useOnlineStatus(); if (isOnline && !wasOffline) return null; return <div className={'sticky top-0 z-50 px-4 py-2 text-center text-sm ' + (isOnline ? 'bg-green-700' : 'bg-amber-700')}>{isOnline ? 'Back online. Pending emergency actions will sync.' : 'Offline. RoadSoS will use cached guidance and SMS fallback.'}</div>; }

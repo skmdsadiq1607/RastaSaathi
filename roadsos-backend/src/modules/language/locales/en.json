@@ -1,0 +1,38 @@
+{
+  "common": {
+    "ok": "OK",
+    "error": "Something went wrong",
+    "unauthorized": "Authentication required",
+    "forbidden": "Insufficient permissions"
+  },
+  "sos": {
+    "triggered": "SOS triggered",
+    "cancelled": "SOS cancelled",
+    "countdown": "Emergency countdown active"
+  },
+  "alerts": {
+    "responder": "Responder alerted",
+    "contact": "Emergency contact alerted"
+  },
+  "firstaid": {
+    "title": "First aid guidance",
+    "offline": "Offline guidance available"
+  },
+  "dashboard": {
+    "activeSOS": "Active SOS",
+    "criticalCases": "Critical cases",
+    "avgResponseTime": "Average response time",
+    "resolvedToday": "Resolved today"
+  },
+  "severity": {
+    "CRITICAL": "Critical",
+    "HIGH": "High",
+    "MEDIUM": "Medium",
+    "LOW": "Low"
+  },
+  "status": {
+    "hospitalSelected": "Hospital selected",
+    "responderDispatched": "Responder dispatched",
+    "workflowCompleted": "Workflow completed"
+  }
+}

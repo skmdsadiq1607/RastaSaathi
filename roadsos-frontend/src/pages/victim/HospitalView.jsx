@@ -1,0 +1,9 @@
+import { useParams } from 'react-router-dom';
+import { Phone, Navigation } from 'lucide-react';
+import EmergencyMap from '../../components/map/EmergencyMap';
+import ResourceBadges from '../../components/hospital/ResourceBadges';
+import ScoreBreakdown from '../../components/transparency/ScoreBreakdown';
+import ETAChip from '../../components/hospital/ETAChip';
+import { useGetHospitalQuery } from '../../features/hospital/hospital.api';
+import { openGoogleMapsDirections } from '../../services/geolocation.service';
+export default function HospitalView() { const { id } = useParams(); const { data } = useGetHospitalQuery(id); const item = data?.data; const hospital = item?.hospital; const position = hospital?.location?.coordinates ? { lat: hospital.location.coordinates[1], lng: hospital.location.coordinates[0] } : null; return <div className="space-y-4"><div className="h-80 overflow-hidden rounded border border-border"><EmergencyMap hospitals={hospital ? [hospital] : []} userLocation={position} /></div><section className="rounded border border-border bg-surface p-4"><h1 className="text-2xl font-bold">{hospital?.name}</h1><p className="text-slate-400">{hospital?.address}</p><div className="mt-3 flex gap-2"><ETAChip seconds={0} /><a aria-label="Call emergency number" className="rounded bg-red-600 p-3" href={'tel:' + hospital?.emergencyContact}><Phone className="h-5 w-5" /></a><button aria-label="Navigate" onClick={() => position && openGoogleMapsDirections(position, position)} className="rounded bg-slate-800 p-3"><Navigation className="h-5 w-5" /></button></div><div className="mt-4"><ResourceBadges resources={item?.resources} hospital={hospital} /></div><div className="mt-4"><ScoreBreakdown components={{ icuAvailability: hospital?.icuBeds || 0, traumaCenterMatch: hospital?.traumaCenter ? 100 : 40, bloodBank: hospital?.bloodBankAvailable ? 100 : 30 }} /></div></section></div>; }

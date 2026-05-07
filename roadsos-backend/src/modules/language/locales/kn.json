@@ -1,0 +1,38 @@
+{
+  "common": {
+    "ok": "ಸರಿ",
+    "error": "ಏನೋ ತಪ್ಪಾಗಿದೆ",
+    "unauthorized": "ಪ್ರಮಾಣೀಕರಣ ಅಗತ್ಯ",
+    "forbidden": "ಅನುಮತಿ ಇಲ್ಲ"
+  },
+  "sos": {
+    "triggered": "SOS ಪ್ರಾರಂಭಿಸಲಾಗಿದೆ",
+    "cancelled": "SOS ರದ್ದು ಮಾಡಲಾಗಿದೆ",
+    "countdown": "ತುರ್ತು ಕೌಂಟ್‌ಡೌನ್ ಸಕ್ರಿಯವಾಗಿದೆ"
+  },
+  "alerts": {
+    "responder": "ಪ್ರತಿಕ್ರಿಯಾಕಾರರಿಗೆ ಎಚ್ಚರಿಕೆ ಕಳುಹಿಸಲಾಗಿದೆ",
+    "contact": "ತುರ್ತು ಸಂಪರ್ಕಕ್ಕೆ ಎಚ್ಚರಿಕೆ ಕಳುಹಿಸಲಾಗಿದೆ"
+  },
+  "firstaid": {
+    "title": "ಪ್ರಥಮ ಚಿಕಿತ್ಸೆ ಮಾರ್ಗದರ್ಶನ",
+    "offline": "ಆಫ್‌ಲೈನ್ ಮಾರ್ಗದರ್ಶನ ಲಭ್ಯವಿದೆ"
+  },
+  "dashboard": {
+    "activeSOS": "ಸಕ್ರಿಯ SOS",
+    "criticalCases": "ಗಂಭೀರ ಪ್ರಕರಣಗಳು",
+    "avgResponseTime": "ಸರಾಸರಿ ಪ್ರತಿಕ್ರಿಯಾ ಸಮಯ",
+    "resolvedToday": "ಇಂದು ಪರಿಹಾರವಾದವು"
+  },
+  "severity": {
+    "CRITICAL": "ಗಂಭೀರ",
+    "HIGH": "ಹೆಚ್ಚು",
+    "MEDIUM": "ಮಧ್ಯಮ",
+    "LOW": "ಕಡಿಮೆ"
+  },
+  "status": {
+    "hospitalSelected": "ಆಸ್ಪತ್ರೆ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ",
+    "responderDispatched": "ಪ್ರತಿಕ್ರಿಯಾಕಾರರನ್ನು ಕಳುಹಿಸಲಾಗಿದೆ",
+    "workflowCompleted": "ಕಾರ್ಯಪ್ರವಾಹ ಪೂರ್ಣಗೊಂಡಿದೆ"
+  }
+}

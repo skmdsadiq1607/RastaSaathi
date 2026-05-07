@@ -1,0 +1,1 @@
+export default function LoadingSpinner() { return <div className="grid min-h-64 place-items-center" role="status" aria-live="polite"><div className="h-10 w-10 animate-spin rounded-full border-4 border-slate-600 border-t-red-500" /></div>; }
