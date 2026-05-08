@@ -1,12 +1,61 @@
+const { Client } = require('@googlemaps/google-maps-services-js');
 const hospitalService = require('./hospital.service');
 const Hospital = require('./hospital.model');
 const Resources = require('../resources/resources.model');
 const { toPoint } = require('../../utils/geoUtils');
 const { sendSuccess } = require('../../utils/responseFormatter');
+const env = require('../../config/env');
+const logger = require('../../utils/logger');
+
+const mapsClient = new Client({});
 const wrap = (handler) => async (req, res, next) => { try { await handler(req, res, next); } catch (error) { next(error); } };
 exports.select = wrap(async (req, res) => sendSuccess(res, await hospitalService.selectHospital(req.body), 'Hospital selected'));
 exports.list = wrap(async (_req, res) => sendSuccess(res, await hospitalService.listHospitals(), 'Hospitals loaded'));
 exports.get = wrap(async (req, res) => sendSuccess(res, await hospitalService.getHospital(req.params.id), 'Hospital loaded'));
+
+// POST /api/hospital/geocode-seed
+// Body: { hospitals: [{ name, address, phone?, region? }] }
+exports.geocodeSeed = wrap(async (req, res) => {
+  const list = req.body.hospitals;
+  if (!Array.isArray(list) || !list.length) {
+    return res.status(400).json({ error: 'Provide hospitals array in body' });
+  }
+  const seeded = [];
+  const failed = [];
+  for (const item of list) {
+    try {
+      const geocodeRes = await mapsClient.geocode({
+        params: { address: item.address + ', Hyderabad, Telangana, India', key: env.googleMapsApiKey },
+        timeout: 5000
+      });
+      const result = geocodeRes.data.results[0];
+      if (!result) { failed.push({ name: item.name, reason: 'No geocode result' }); continue; }
+      const { lat, lng } = result.geometry.location;
+      await Hospital.findOneAndUpdate(
+        { name: item.name },
+        {
+          name: item.name,
+          address: item.address,
+          location: toPoint(lat, lng),
+          specialties: item.specialties || ['emergency medicine', 'general surgery', 'critical care'],
+          icuBeds: item.icuBeds || 10,
+          traumaCenter: item.traumaCenter || false,
+          bloodBankAvailable: item.bloodBankAvailable !== false,
+          phone: item.phone || '108',
+          emergencyContact: item.phone || '108',
+          region: item.region || 'Hyderabad',
+          active: true
+        },
+        { upsert: true, new: true }
+      );
+      seeded.push(item.name);
+    } catch (err) {
+      logger.warn('Geocode failed', { name: item.name, error: err.message });
+      failed.push({ name: item.name, reason: err.message });
+    }
+  }
+  return sendSuccess(res, { seeded: seeded.length, failed }, `Geocoded and seeded ${seeded.length}/${list.length} hospitals`);
+});
 
 const SEED_HOSPITALS = [
   // ── HYDERABAD / TELANGANA ──────────────────────────────────────────────────
