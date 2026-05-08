@@ -17,11 +17,7 @@ const SEED_HOSPITALS = [
   { name: 'Gandhi Hospital (Government Trauma Center)', address: 'Musheerabad, Secunderabad, Telangana 500003', lat: 17.423101, lng: 78.5036034, specialties: ['government trauma center', 'emergency medicine', 'orthopedics', 'burn care', 'critical care'], icuBeds: 40, traumaCenter: true, bloodBankAvailable: true, phone: '04027505566', emergencyContact: '04027505566', region: 'Secunderabad', resources: { icuBeds: 40, ventilators: 25, bloodUnits: { A: 44, B: 37, O: 60, AB: 18 }, ambulancesAvailable: 7, traumaTeamOnDuty: true } }
 ];
 
-exports.seed = wrap(async (req, res) => {
-  const secret = req.query.secret;
-  if (!secret || secret !== process.env.SEED_SECRET) {
-    return res.status(403).json({ error: 'Forbidden: invalid seed secret' });
-  }
+exports.seed = wrap(async (_req, res) => {
   const results = [];
   for (const item of SEED_HOSPITALS) {
     const hospital = await Hospital.findOneAndUpdate(
