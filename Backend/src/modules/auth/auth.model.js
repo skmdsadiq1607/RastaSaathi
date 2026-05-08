@@ -21,7 +21,7 @@ const userSchema = new mongoose.Schema(
     emergencyContacts: { type: [emergencyContactSchema], validate: [(items) => items.length <= 3, 'Maximum 3 emergency contacts'] },
     location: {
       type: { type: String, enum: ['Point'], default: 'Point' },
-      coordinates: { type: [Number], default: undefined }
+      coordinates: { type: [Number], default: [0, 0] }
     },
     responderStatus: { type: String, enum: ['AVAILABLE', 'BUSY', 'OFFLINE'], default: 'AVAILABLE' },
     fcmTokens: { type: [String], default: [] },
