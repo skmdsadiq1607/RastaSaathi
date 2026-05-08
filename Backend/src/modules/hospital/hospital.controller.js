@@ -18,7 +18,7 @@ const SEED_HOSPITALS = [
 ];
 
 exports.seed = wrap(async (_req, res) => {
-  const results = [];
+  return res.status(410).json({ error: 'Seed endpoint has been disabled.' });
   for (const item of SEED_HOSPITALS) {
     const hospital = await Hospital.findOneAndUpdate(
       { name: item.name },
