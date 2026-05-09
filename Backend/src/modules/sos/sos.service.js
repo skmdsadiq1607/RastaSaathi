@@ -14,7 +14,7 @@ async function assertSosRate(userId) {
   const key = 'sos:rate:' + userId + ':' + hourKey;
   const count = await redis.incr(key);
   if (count === 1) await redis.expire(key, 3600);
-  if (count > 3) throw new AppError('SOS rate limit exceeded for this hour', 429, 'SOS_RATE_LIMITED');
+  if (count > 300) throw new AppError('SOS rate limit exceeded for this hour', 429, 'SOS_RATE_LIMITED');
 }
 
 async function enqueueWorkflow(incidentId) {

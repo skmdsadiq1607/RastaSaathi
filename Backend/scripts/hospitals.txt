@@ -1,0 +1,2032 @@
+S.No Hospital Name Address State Name City Name Pin Rohini Id
+1 Apoorva Hospital 46 / A Santosh Nagar, Mehindipatnam Telangana Hyderabad 500028 8900080160033
+2 Bapuji Hospital 7-44 Bapujinagar, Nacharam Telangana Hyderabad 500076 8900080164482
+3 BBR Hospitals 7-4-194, Ferozguda, Balanagar,
+Secunderabad Telangana Hyderabad 500011 8900080158665
+4 Bristlecone Hospitals
+ Plot No. 3-4-136/A, Street No.6,
+Barkatpura, Hyderabad, Telangana
+500027
+Telangana Hyderabad 500027 8900080159860
+5 Clear Vision Eye Center 3-6-272, Nvk Towers, Himayathnagar Telangana Hyderabad 500029 8900080160255
+6 Eashwar Lakshmi Hospital Plot No.9, Gandhi Nagar Telangana Hyderabad 500080 8900080163508
+7
+G.B.R Multispeciality Hospital &
+Fertility Centre
+ Beside Fruit Market
+Road,Chaitanyapuri,Prabath Nagar,
+Fruit Market Ln, Dilsukh Nagar, Pratap
+Nagar, Kothapet, Hyderabad, Telangana
+500060.
+Telangana Hyderabad 500060 8900080162877
+8 Hope Childrens Hospital 5-9-24 / 81 Lake Hills Road,
+Basheerbagh Telangana Hyderabad 500463 8900080163515
+9 Janani Hospital 3-12-58 / 2, Ramanthapur, Ganesh
+Nagar, (Opp. Road To Tv Studio) Telangana Hyderabad 500013 8900080158825
+10 Konark Hospital
+Plot No : 13 & 14, Beside Sherwood
+Public School, Pet Basheerabad,
+Kompally
+Telangana Hyderabad 500055 8900080164505
+11 Krishna Hospital H.No- 8-147, Gayathrinagar X Roads,
+Karmanghat Telangana Hyderabad 500079 8900080353602
+12 LK Hospital pvt ltd #4-159 / 4-172, Maruthi Nagar,
+Malkajgiri Telangana Hyderabad 500047 8900080162013
+13 Madhava Nursing Home 43, Sarojini Devi Road, Sec-Bad Sd Road Telangana Hyderabad 500003 8900080157798
+14 Prathima Hospitals
+ Plot No.27, KPHB Main Road, Jal Vayu
+Vihar, Opp Arjun Theatre, Kukatpally,
+Hyderabad, Telangana 500072
+Telangana Hyderabad 500072 8900080163928
+15 Meena Hospital
+# 10-5-682, Sai Ranga Towers,
+Thukaramgate, North Lallaguda,
+Secunderabad Thukaramgate, Sai
+Ranga Towers
+Telangana Hyderabad 500017 8900080159228
+16 Mythri Hospital Chandranagar Plot No- 5-4 / 12 To 16, Main Road,
+Chandanagar Telangana Hyderabad 500050 8900080162204
+17 NeoRetina Eye Hospital #5-9-83/B, Chapel Road, Nampally,
+Opp. Public Gardens, A.P. Telangana Hyderabad 500001 8900080157422
+18 Nest Childrens Hospital Pl.No. Az, Vikrampuri Colony,
+Secunderabad Telangana Hyderabad 500009 8900080158528
+19 Nightingale hospital
+# 17-1-383 / N.S / 3 &4, Opp Amber
+Biscuit Factory, Nagarjuna Sagar Rd,
+Santosh Nagar Xroads
+Telangana Hyderabad 500059 8900080162716
+20 Omega Hospital #8-2-293/82/L/276A, Mla Colony Road,
+No 12 Bajara Hills Telangana Hyderabad 500034 8900080160941
+21 Omni Hospital # 11-9-46, Opp. Private Market
+Kottapet, X Roads, Dikushnagar Telangana Hyderabad 500036 8900080161153
+22 Poojitha Hospital 7-2-1799 / 4A / 2, Sanathnagar, Czech
+Colony Telangana Hyderabad 500018 8900080159310
+23 Pragna Hospital
+6-3-347 / 22 / B / 1, Dwarakapuri
+Colony, Near Sai Baba Temple,
+Panjagutta
+Telangana Hyderabad 500016 8900080164864
+24 Pranaam Hospital Ist Floor, Megha Hills Complex, Miyapur Telangana Hyderabad 500050 8900080157439
+25 Prasad Hospital Mig-204, Road No 1, Kukatpally, Opp.
+Grand Sitara Hotel, Kphb Cly Telangana Hyderabad 500072 8900080163973
+26 Aster Prime Hospitals
+ Plot No - 2 & 4, Opp. Passport Seva
+Kendra, Beside Blue Fox Hotel, Satyam
+Theatre Road, Ameerpet, Hyderabad,
+Telangana 500038
+Telangana Hyderabad 500038 8900080161542
+27 Prime Hospital Kukatpally Mig 113 & 114, Road No:-
+1.K.P.H.B.Colony, Kukatpally Telangana Hyderabad 500072 8900080164000
+28 Ram Hospital Shapurnagar, Ida, Jeedimetla Telangana Hyderabad 500055 8900080161412
+29 Ravi Helious Hospital 175, R.K.Matt Road, Opp: Indirapark Telangana Hyderabad 500029 8900080160415
+30 Satya Kidney Hospital 3-6-4, Street No 4, Himayath Nagar Telangana Hyderabad 500029 8900080160446
+31 Shreshta Orange Hospital
+3-8-264/1,02 264/2 Sy No 58.58/A,
+Chandrapuri Colony, Opp:Vijaya Laxmi
+Theater, R.R.Dist
+Telangana Hyderabad 500070 8900080164369
+32 Shreya Hospital Plot No:286&289, Srinivasa Nagar Cly,
+Dr.A.S.Rao Nagar, Ecil Telangana Hyderabad 500062 8900080326170
+33 Sigma Hospital - Jeedimetla #22-4/1, Apiic Colony, Ida Jeedimetla,
+Shapur Telangana Hyderabad 500055 8900080162532
+34 Soorya Hospitals 1-7-226, OPP. ROUND
+BUILDING,KAMALA NAGAR, ECIL
+Telangana Hyderabad 500062 8900080411029
+35
+Sri Srinivasa Hospital(Unit of
+Marthala)
+#17-1-380 / E / 28&32, C.E Colony,
+Saidabad Santosh Nagar Telangana Hyderabad 500059 8900080347045
+36 Srinivas Hospital Plot No:- 256, Sainikpuri, Hasthanapuri
+Colony Telangana Hyderabad 500094 8900080165090
+37 Sunshine Hospital #1-7-186-189, 201 To 205,
+Prenderghast Road, Secunderabad Telangana Hyderabad 500003 8900080157897
+38 SV Multispeciality Hospital H.No. 6-156, Slns Colony, Balapur X
+Roads, Hyd Rr Dist Telangana Hyderabad 500035 8900080164567
+39 Swarup Eye Centre
+#5-9-163, Chapel Road, Near Staneley
+College, Abids, HYDERABAD-500001 Telangana Hyderabad 500001 8900080157514
+40 Tanvi Eye Center
+Plot No- 23&24, Sanjeev Housing Cly,
+East Marredpally, Secunderabad East Telangana Hyderabad 500026 8900080159815
+41
+The Deccan Hospitals (A Unit of
+Park Health Systems Pvt Ltd).
+Do No: 6-3-903/A & B, Somajiguda.
+Opp Yashoda Cancer Institute Telangana Hyderabad 500082 8900080164840
+42
+Unity Centre for Orthopaedic &
+Trauma
+3-5-170 / Gs, Narayanguda Telangana Hyderabad 500029 8900080331570
+43 Vijaya Hospital Plot No 128, New Gayathri Nagar,
+Karmanghat Telangana Hyderabad 500079 8900080164581
+44
+Vitae medical centre (A unit of
+Pacific Hospital) Jubilee Hills Road No- 36, Plot No 237 Telangana Hyderabad 500033 8900080160804
+45 Yashoda Hospitals-Malakpet Nalgonda X Rd, Malakpet Telangana Hyderabad 500036 8900080161399
+46 Yashoda Hospitals-Secunderabad Sp Road, Beside Hari Hara Kalabhavan Telangana Hyderabad 500003 8900080157941
+47 Yashoda Hospitals-Somajiguda Raj Bhavan Road, Somajiguda Telangana Hyderabad 500036 8900080164932
+48 Aditya Hospital #4-1-16, Boggaulakunta, Tilak Road,
+Abids, Telangana Hyderabad 500001 8900080157231
+49 SVK Hospital Plot # 78, Opp. Ranga Theatre,
+Shapurnagar, Jeedimetla, Telangana Hyderabad 500055 8900080162501
+50 Usha mallupudi Cardiac Hospital Gajularamaram Jeedimetla
+Quthbullapur Municipality Telangana Hyderabad 500055 8900080162570
+51 Olive Hospital #12-2-718/3 To 5, Nanalnagar X Roads,
+Mehdipatnam Telangana Hyderabad 500028 8900080160163
+52 Premier Hospital #12-2-718, Nanal Nagar X Roads,
+Mehdipatnam, Telangana Hyderabad 500028 8900080160118
+53 Sree Nethraya eye hospital #11-9-1, Vimal Complex, Kothapet, Telangana Hyderabad 500035 8900080161184
+54 Care Hospital - Banjara Hills Road No 1, Banjara Hills Telangana Hyderabad 500034 8900080160842
+55
+Care Hospital - Musheerabad
+(gurunanak care)
+Opp Raja Deluxe,
+Bakaram,Musheerabad Telangana Hyderabad 500020 8900080159549
+56 Care Hospital - Nampally 5-4-199,Exhibition Road,Nampally Telangana Hyderabad 500001 8900080348318
+57
+Nirmala maternity,orthopaedic
+and general hospital
+#2/3Rt, Opp Post Office, Vijayanagar
+Colony Telangana Hyderabad 500057 8900080147805
+58 Seha Hospital Lakdikapul Telangana Hyderabad 500016 8900080158153
+59 Sowmya Hospital #1-9-49/B/1, Ram Nagar, Musheerabad Telangana Hyderabad 500020 8900080159518
+60 Majestic Hospital # 9-2-504&504/B Lungerhouse, Telangana Hyderabad 500008 8900080158399
+61 RR Hospital
+C4, C5, ganga Enclave, Opp. Excellency
+garden, Pet basheerbagh, Medchar
+Road,
+Telangana Hyderabad 500055 8900080162495
+62 Asha Hospital # 19-66/11, Prashanth nagar,Kapra
+Phase-2 Telangana Hyderabad 500062 8900080163263
+63 BSR ENT Nursing Home # 1-2-17 / 23, S.D Raod Karan Center Telangana Hyderabad 500026 8900080157729
+64 Care Hospitals-secunderabad Near Clock Tower, Market Street,
+Secunderabad Telangana Hyderabad 500003 8900080157682
+65
+Dr. Akbars Eye Hospital Phaco&
+Laser Centre
+#12-2-831/87, saisuchi towers,
+Mehdipatnam Telangana Hyderabad 500028 8900080160064
+66 Femina Women's Hospital
+8-2-686/B/ Opp to triumph
+motorcycles, 611, Rd Number 12, NBT
+Nagar, Banjara Hills, Hyderabad,
+Telangana 500034
+Telangana Hyderabad 500034 8900080160873
+67
+Global Eye & Laser Hospital Pvt
+Ltd
+Plot no:197, Road no:1, KPHB Colony,
+Kukatpallty Telangana Hyderabad 500072 8900080061446
+68
+Krishna Institute Of Medical
+Sciences Ltd.
+# 1-8-31 / 1, Minister Road,
+Secunderabad Telangana Hyderabad 500003 8900080157767
+69 Nova Ent Hospital 6-3-652, 1st floor, Kautilya Block, Adj to
+Medinova, Somajiguda Telangana Hyderabad 500082 8900080164987
+70 Remedy Hospital - Kukatpally Road No-4, KPHB Colony, Kukatpally Telangana Hyderabad 500072 8900080164031
+71 S.S Multispeciality Hospital #7-4-25/S/N, Beside IOC Petrol Pump,
+Sagar Road, Omkar Nagar, R.R, dist Telangana Hyderabad 500074 8900080164420
+72 Sankhya Hospitals Opp SBT Bank, Plot no C-15, KPHB Rd
+no-1
+Telangana Hyderabad 500072 8900080158788
+73
+Sunrise Super Speciality Childrens
+Hospital
+# 3-5-1105, Opp IPM Blood Bank,
+Beside Bata Show Room, Narayanaguda Telangana Hyderabad 500029 8900080160514
+74 Xenia hospital Plot no -43, EC Extension, ECIL X Roads Telangana Hyderabad 500062 8900080333857
+75 Harsha Hospitals
+1-76 / 1 / B/4, Ganga Enclave, Medchal
+road, Petbasheerabad, Quthbullapur
+MDI, RR dist.
+Telangana Hyderabad 500055 8900080162440
+76 Mahalakshmi Nursing Home # 3-2-320, S.S.Street, Behind Manju
+Theatre, Near Pochamma Temple Telangana Hyderabad 500003 8900080157804
+77 Challa Eye Care Center
+Road No: 2, Banjara Hills Lane Beside
+Harley Davidson Showroom, Sagar
+Soceity Main Road, Hyderabad,
+Telangana 500034
+Telangana Hyderabad 500034 8900080160859
+78
+Matrika Hospital (Matrika Dr.
+Kalpana's Hospital) 6-3-1100 / 2, T. Nagar, Somajiguda Telangana Hyderabad 500082 8900080164819
+79 Pushpagiri Vitreo Retina Institute Plot No- 241, Umaplaza, Door No- 10-2-
+342, Roadno 9, West Marredpally Telangana Hyderabad 500026 8900080159761
+80 Sri Maha Laxmi Eye Hospital Plot 3, 5-5-148 / 1, Vanasthali Hills Cly,
+Vansthalipuram Telangana Hyderabad 500070 8900080163690
+81 Apollo Hospital - Hyderguda Hyderguda Telangana Hyderabad 500029 8900080160231
+82 Apollo Hospitals - Jubliee Hills Jubliee Hills Telangana Hyderabad 500033 8900080328488
+83 GLENEAGLES GLOBAL HOSPITALS
+6-1-1040/1 to 4, Lakdi-ka-pul,
+Hyderabad - 500 004, Telangana Telangana Hyderabad 500004 8900080158047
+84
+Sree Srinivasa Ent Care Research
+Institute
+# 6-3-663 / 7 / 5, Jaffer Ali Bagh,
+Somagiguda Telangana Hyderabad 500082 8900080164888
+85 Ikon Hospital 16-11-741/C/1/15, Behind TMC, Adj to
+Reliance fresh, Dilsuknagar. Telangana Hyderabad 500060 8900080162914
+86 Ravi Hospital LIG-564/565, Road No 3, Behind RS
+brotheri, KPH Colony Telangana Hyderabad 500072 8900080164024
+87 Apollo Hospital - Secunderabad Next to keys high school, St. John Road Telangana Hyderabad 500003 8900080157651
+88
+Lakshmi Maternity and Nursing
+home
+# 3-6-191/1/182, Urdu hall lane,
+Hyderguda Telangana Hyderabad 500029 8900080160361
+89 Little stars childrens hospital #8-2-248/1/7/30&30A, Plot no:30,
+Nagarjuna hills, Panjagutta Telangana Hyderabad 500011 8900080164796
+90
+Maxivision Laser Center (p) Ltd -
+Begumpet
+#1-11-252 / 1A To 1D, Alladin Mansion,
+Street No 3, Begumpet
+Telangana Hyderabad 500016 8900080162952
+91
+Maxivision Laser Center (p) Ltd -
+Somajiguda
+6-3-903/A/1-1, Raj Bhavan road,
+Somajiguda,Hyderabad Telangana Hyderabad 500082 8900080164826
+92
+Neo BBC New Born Childrens
+Hospital
+#1-9-1088/1, second floor, S.K. Mall,
+Vidya nagar. Telangana Hyderabad 500044 8900080161900
+93 Matrix Hospital
+A Unit of Sadguruvijaya Hospitals Pvt.
+Ltd - Plot No. 4, 5, 14 & 15 Pragathi
+Nagar, Ramanthapur Main road,
+Hyderabad - 13.
+Telangana Hyderabad 500013 8900080158849
+94 Dharani Hospital
+#12-2-417/46/8/G1, Hari Hara Teja
+Apts, shiv bagh, Near gudimalkapur X
+roads, karwan.
+Telangana Hyderabad 500049 8900080160279
+95 Goodwill Kidney & Surgical Centre
+# 10-5-13 / 2 / A, Masab Tank, Opp
+Khaja Mansion, Road No. 1, Banjara
+Hills,
+Telangana Hyderabad 500028 8900080160088
+96 Lions Patny Hospital Street no:4, Road no:7, New muncipal
+park, west maredpally Telangana Hyderabad 500026 8900080157385
+97
+Maxivision Laser Center (p) Ltd -
+Dilsukhnagar
+16-11-741/D/66, Moosarambagh, Lane
+beside TMC&Tipsy Topsy, Dilsukhnagar, Telangana Hyderabad 500036 8900080161405
+98
+Maxivision Laser Center (p) Ltd -
+Kukatpally
+MIG-160, Road No:1, K.P.H.B Colony,
+Kukatpally Telangana Hyderabad 500072 8900080164307
+99
+Maxivision Laser Center (p) Ltd -
+Madhapur
+D.no-1-111/24, Plot No:24, Survey No:
+64, Hitech City, Madhapur, Telangana Hyderabad 500034 8900080164673
+100 Raja Hospital #204, Mythrinagar, Miyapur,
+Hyderabad Telangana Hyderabad 500049 8900080334403
+101 Sai Sanjeevini Hospitals Plot No:7, Narsimhapuri colony, Saroor
+nagar, beside TNR port, kothapet Telangana Hyderabad 500060 8900080190849
+102 Trident Hospital Nh 7, Main Road, Madhura Nagar,
+Shamshabad, Rr Dist, Telangana Hyderabad 500001 8900080165168
+103 ADR Hospitals H.No. 4-112/1, Anand Bagh, Malkajgiri Telangana Hyderabad 500017 8900080161993
+104
+New Life Line Multi Specialty
+Hospital
+1-1-2/1, sai priya colony, Beside old
+kapra muncipal office, kapra ECIL post Telangana Hyderabad 500062 8900080163331
+105 Raagini Childrens Hospitals Opp.Adarsh Bank, Beside Sagar Hotel,
+Main Rd, Shapur Nagar, Jeedimetla Telangana Hyderabad 500055 8900080339644
+106
+Ramdev Rao Memorial General
+Hospital
+1-6,oppvivekananda nagar colony
+junction, kukatpally Telangana Hyderabad 500072 8900080164017
+107 Kadimi Nursing Home H.No: 6-94/6/c, chandanagar,
+Hyderabad Telangana Hyderabad 500050 8900080162174
+108 Hyderabad Eye Centre # 3-6-217/1, Street No:15, Near Vasavi
+Public School, Himayathnagar Telangana Hyderabad 500029 8900080160323
+109 Kamineni Hospital - King Koti D. No. 4-1-1227, King Koti Road, Abids Telangana Hyderabad 500001 8900080157361
+110 Kamineni Hospital - LB Nagar Survey No. 68, L.B. Nagar, Ranga reddy Telangana Hyderabad 500068 8900080163607
+111
+Krishnaveni multi speciality
+hospital
+4-9-437/1/NR, RTC Colony,
+HayathNagar Telangana Hyderabad 501505 8900080165205
+112 Sowmya Childrens Hospital Lane no: 23, Behind Axis Bank, SR
+Nagar
+Telangana Hyderabad 500016 8900080161597
+113 Prema Eyecare Centre 205, Bhanu Enclave, A.s.Rao Nagar Telangana Hyderabad 500062 8900080163355
+114 Vijay Marie Hospital Siafabad Hyderabad Telangana Hyderabad 500004 8900080335608
+115
+Saisiva Childrens Hospital and
+Polyclinic
+Opp: sri venkateswara swamy temple,
+Chanda Nagar Telangana Hyderabad 500050 8900080162242
+116 Spark Hospital Plot No: 2&3, Beside Axis Bank,
+peerzadiguda,Near Uppal Telangana Hyderabad 500039 8900080161733
+117 Sriven Hospital HIG-9, 6th Phase, KPHB Colony,
+Kukatpally.
+Telangana Hyderabad 500072 8900080164079
+118 Sunrise Hospitals 4-9-321, Plot No: 4&7, Nh-9 Telangana Hyderabad 501506 8900080165236
+119 Vanaja Hospital Plot:7, H.no: 30-2065/39/7, Pragathi
+Nagar, Malkajgiri, Dr. A.S.Rao Nagar Telangana Hyderabad 500062 8900080163423
+120
+AWARE GLENEAGLES GLOBAL
+HOSPITALS
+08-16-01, Sowbhagya nagar, Sagar
+road, lingojiguda, saroor nagar, LB
+nagar hyderabad
+Telangana Hyderabad 500035 8900080161078
+121 Icon Hospitals 540/1&2, JNTU – Hitech City Road, 6th
+Phase, Kukatpally Telangana Hyderabad 500072 8900080163867
+122
+Lions Club of Hyderabad
+Sadhuram Eye Hospital 1-2-8, Gaganmahal Road, Domalguda Telangana Hyderabad 500029 8900080160378
+123 Sai Venkateshwara Hospital
+10-1-80/1/2, Near Karmanghat 'X'
+Roads, Sagar Main Road, Karmanghat,
+Hyderabad-500079
+Telangana Hyderabad 500079 8900080015500
+124 Drishti Eye Centre Plot No-114A, 8-3-1110 / 6 / 114A,
+Lane Opp Sbi, Srinagar Cly Main Road Telangana Hyderabad 500073 8900080164321
+125
+Vasan Eye Care Hospital (A Unit
+Of Vasan Health Care Pvt Ltd) -
+Begampet
+1/10/-44/1, Begampet main road,
+Begampet
+Telangana Hyderabad 500060 8900080366640
+126
+Vasan Eye Care Hospital (A Unit
+Of Vasan Health Care Pvt Ltd) -
+Dilsuknagar
+No.60/11, N.no741/10, Flat-G-1,
+Moosarambagh Dilshiuk nagar Telangana Hyderabad 500060 8900080366794
+127
+Vasan Eye Care Hospital (A Unit
+Of Vasan Health Care Pvt Ltd) -
+Himayathnagar
+No3-6-611, Himyath nagar, Hyderabad
+Himayath nagar Telangana Hyderabad 500029 8900080160538
+128
+Vasan Eye Care Hospital (A Unit
+Of Vasan Health Care Pvt Ltd) -
+Jubileehills
+No.8-2-293/82/a/1132/4 No.36,
+Jubilee Hills Telangana Hyderabad 500033 8900080157910
+129
+Vasan Eye Care Hospital (A Unit
+Of Vasan Health Care Pvt Ltd) -
+Kukatpally
+Plot, MIG-12, Dharma reddy colony
+Phase-I Kukutpalli Telangana Hyderabad 500072 8900080164178
+130 Sri Sai Ram Hospital Langer House Telangana Hyderabad 500008 8900080158443
+131
+Swaroopa multi Speciality
+Hospital
+6-32/A, Nirmala Residency,
+vennelagadda, qutbullapur road,
+suchitra
+Telangana Hyderabad 500055 8900080162556
+132 ADRM Multispeciality hospital 9-2, Plot no: 3, ramanthapur Telangana Hyderabad 500013 8900080158795
+133 Kakatiya Hospital 12-52, Road No:2, P&T colony, near
+uppal depot, Medipally Telangana Hyderabad 500039 8900080343269
+134 Usha Mohan Hospital Hydergunda rajendernagar Telangana Hyderabad 500055 8900080162068
+135 Liv Life Hospital Plot No 729 , Road No 36 , Jubliee Hills Telangana Hyderabad 500033 8900080340961
+136
+Dr Agarwal's Eye Hospital
+Dilsukhnagar
+Chaitanyapuri X Road, Dilshuk nagar
+Hyderabad Telangana Hyderabad 500036 8900080162860
+137
+Dr Agarwal's Eye Hospital
+Kukatpally Vijay jai Tower, Kukatpally, Hyderabad Telangana Hyderabad 500072 8900080163812
+138
+Dr Agarwal's Eye Hospital
+Panjgutta
+Dalta Pride, Panjagutta Colony,
+Hyderabad Telangana Hyderabad 500040 8900080164949
+139
+Dr Agarwal's Eye Hospital
+Secunderabad
+Mantri Sensation, RP Road,
+Secunderabad Telangana Hyderabad 500003 8900080157705
+140 Balaji Hospital Plot No. 34,34A, NCL South, Opp, BYR
+Raju Foundation, Petbasheerbagh Telangana Hyderabad 500055 8900080162402
+141
+Sri Sai Srinivasa Speciality
+Hospital
+# 3-5-1082 / A, Jaiswal Lane,
+Narayanguda Telangana Hyderabad 500029 8900080160477
+142 INDO US Super Speciality Hospital 7-1-57/B& C Shyam Karan Road Anand
+Bagh, Ameerpet Telangana Hyderabad 500016 8900080159051
+143
+Durgabai Deshmkh Hospital &
+Research Centre(AMS) Vidya Nagar Telangana Hyderabad 500044 8900080161887
+144 Continental hospital Plot no 3 road no,2 it &financial district
+, nanakramguda gachibowli Telangana Hyderabad 500008 8900080345331
+145 Star hospital #8-2-596 / 5, Rd No-10, Banjara Hills Telangana Hyderabad 500034 8900080160972
+146 Srikara Hospitals
+10-3-188, Opp. Railway reservation
+counter lane, Beside hotel
+Ramakrishna, secunderabad
+Telangana Hyderabad 500025 8900080159709
+147 Aditya Hospital - Uppal Opp Bharat Petrol pump, Shanti Nagar
+Uppal Telangana Hyderabad 500039 8900080161788
+148 Centre For Sight - Banjara hills Ashoka Capital banjara Hills Road No.-2 Telangana Hyderabad 500034 8900080161016
+149
+Asian Institute Of Nephrology and
+Urology 6-3-562/A, Erramanzil Colony Telangana Hyderabad 500082 8900080164994
+150
+Vasan eye care hospital (A unit of
+Vasan Health Care Pvt Ltd) -
+Mehdipatnam
+No.10-3-13, Samous Plaza
+Mehdipatnam Telangana Hyderabad 500028 8900080160200
+151
+Vasan eye care hospital (A unit of
+Vasan Health Care Pvt Ltd) - AS
+roa Nagar
+1-1-256/7, Srinivas Nagar Colony, Kabra
+Circuit, Keesaramandal, A.S. Rao
+Nagar(Opp Kotak Bank)
+Telangana Hyderabad 500062 8900080163430
+152
+Vasan eye care hospital (A unit of
+Vasan Health Care Pvt Ltd) -
+Santoshnagar, Saidabad
+17-1-382/R/15 Sri Maanvitha Mansion,
+Apsrtc Officers Colony, Sanothosh
+Nagar, Saidabad Hyderbad
+Telangana Hyderabad 500059 8900080164284
+153
+Vasan eye care hospital (A unit of
+Vasan Health Care Pvt Ltd) -
+Secunderabad
+No.8-1-5/7, Janak Plaza, Opp Clock
+Tower, Sd Road, Secunderabad Telangana Hyderabad 500003 8900080157903
+154
+Vasan Eye Care Hospital (A Unit
+Of Vasan Health Care Pvt Ltd) -
+ChandaNagar rangareddy
+Plot no 86 Chanda nagar
+serilingampally Ranga reddy dist Telangana Hyderabad 500050 8900080162327
+155 Pace Hospital
+1-11-254/11/A/3/1,2,3,MOTILAL
+NeHRU NAGAR,SP ROAD,near Airport,
+BEGUMPET
+Telangana Hyderabad 500016 8900080159075
+156
+Hyderabad Nursing Home Pvt.
+Ltd. # 5-9-29 / 40, Basheerbagh Telangana Hyderabad 500063 8900080160330
+157
+Saivani Superspeciality Hospital
+(A unit of Vishwa Health Institute
+Pvt. Ltd)
+# 1-2-365 / 36 / 6&7, Ramakrishna
+Math Road, Indira Park, Domalguda Telangana Hyderabad 500029 8900080160439
+158
+Mahavir Hospital & Research
+Centre
+10-1-1, Bhagwan Mahavir Marg, A.C
+Guards, Telangana Hyderabad 500004 8900080158108
+159
+Aravind Eye Hospital Private
+Limited.
+# 12-2-824, Mehindipatnam, Santosh
+Nagar Cly Telangana Hyderabad 500028 8900080160040
+160 Woodlands Hospitals 3-4-852, Barkathpura Telangana Hyderabad 500027 8900080159969
+161 Citizen Hospital 1-100/1/cch, Nallagandha Village,
+Serilingampally, Telangana Hyderabad 500019 8900080159419
+162 Max Cure Hospitals
+ Behind Cyber Towers, In the Lane of
+IBIS Hotel, Hitech City, Madhapur,
+Hyderabad, Telangana 500081
+Telangana Hyderabad 500081 8900080330535
+163
+Basavatarakam Indo American
+Cancer Hospital and Research
+Institute
+#Road No 14, Banjara Hills, Hyderabad Telangana Hyderabad 500034 8900080348912
+164 Ozone Hospital Besides Khila Maisamma Temple,
+Kothapet, Hyderabad, Telangana Telangana Hyderabad 500060 8900080163157
+165
+Srikara Hospitals Ortho and Multi
+speciality
+222 & 223 Myhri Nagar, Phase II
+Madinaguda, Miyapur Hyderabad Telangana Hyderabad 500049 8900080337220
+166
+Apollo Cradle(A unit Of Apollo
+Specialty Hospitals Pvt Ltd) -
+Jubilee Hills
+Dharani Devi Building, Plot No. 565,
+Road No. 92, Jubilee Hills Hyderabad,
+Telangana
+Telangana Hyderabad 500034 8900080160934
+167 Win Vision
+D.No 2-34/2, G.V Classic, Plot No 1 & 6,
+Survey No 02, Kothaguda 'X' Road,
+Kondapur, Serilingampally, Hyderabad,
+Telangana
+Telangana Hyderabad 500084 8900080338470
+168
+Apollo Cradle Hospitals (A unit Of
+Apollo Specialty Hospitals Pvt Ltd)
+Door No 2-34/2, Gramakautam, Plot
+No.1, Plot No. 6, Kothaguda
+Village, Serilingam Pally (M), R. R. Dist500084 Hyderabad, Telangana
+Telangana Hyderabad 500084 8900080254053
+169 Care Hospitals Hitech Branch
+Old Mumbai Highway Road, Hear
+Cyberabad commissioner Office, Hitech
+city, Hyderabad
+Telangana Hyderabad 500032 8900080348196
+170
+Malla Reddy Narayana
+Multispeciality Hospitals
+# 1-1-216, Survey No.14, Suraram 'X'
+Roads, Jeedimetla Telangana Hyderabad 500016 8900080162464
+171
+Navodaya Hospital For Women
+And Children
+PARADISE CIRCLE, PG ROAD,
+SECUNDERABAD
+Telangana Hyderabad 500003 8900080345515
+172 Shalini Hospital # 3-4-140,Barkathpura Chaman.
+Hyderabad, Telangana Telangana Hyderabad 500027 8900080159921
+173 Neo Vision Eye Care
+7-102 / 7, Habsiguda, Ist Floor, Sai
+Enclave Telangana Hyderabad 500016 8900080330252
+174 Rainbow Childrens Hospital PLOT NO:403 ,ROAD NO:2, BANJARA
+HILS, HYDERABAD
+Telangana Hyderabad 500034 8900080160965
+175 Rainbow Hospital plot No.32&33, Survay no12 Kondapur Telangana Hyderabad 500081 8900080345423
+176 Rainbow Childrens Hospital Plot No - C 17, Vikrampuri Cly Telangana Hyderabad 500026 8900080158542
+177
+RAINBOW CHILDRENS MEDICARE
+PVT LTD
+1-2-20, SURVEY NO:141, HYDERNAGAR,
+KUKATPALLY,OPPOSITE CHERMAS
+Telangana Hyderabad 500071 8900080351790
+178 Sri Aurobindo Nethralaya
+Plot No- Hig-210, Phase I & Ii,
+Maharastra Bank Circle, Kphb Cly,
+Kukatpally
+Telangana Hyderabad 500072 8900080164314
+179
+Dr. Rao's ENT Super Speciality
+International Hospital
+# Plot no 29, Road No 4, KPHB 3rd
+phase, Hyderabad, Telangana Telangana Hyderabad 500072 8900080121263
+180 Siddharth Eye Centre # 3-5-782/H/21,opp.king kothi
+govt.hospital, Hyderabad, Telangana Telangana Hyderabad 500029 8900080135833
+181 Eye Care Hospital # 6-8-932/A, Safa Plaza, Malakpet,
+Hyderabad, Telangana Telangana Hyderabad 500036 8900080329508
+182 Netra Eye Hospital # Sudharshan Reddy ,Nagar
+Chintal,Hyderabad Telangana Hyderabad 500055 8900080335615
+183 Rama Eye Hospital
+# 5-8-/105/A, Behind Kamath Hotel,
+Nampally
+Station Road, Nampally, Hyderabad
+Telangana Hyderabad 500001 NA
+184 Sujatha Eye Hospital
+# Door No 12-10-590/54/A/1,
+Warasiguda,
+Hyderabad -
+Telangana Hyderabad 500061 8900080367739
+185 Saijyothi Eye Institute
+Plot no. I85, road no.1, West
+Marredppally, Secunderabad- , mobile:
+9394703586
+Telangana Hyderabad 500026 8900080159778
+186 Virinchi Hospitals 6-3-2, 6-3-3, 6-3-3/1 Road,1&12
+Junction, Virinchi Cercle,Banjara Hills Telangana Hyderabad 500034 8900080334717
+187
+Dr. Rajashekar Reddy
+Laparoscopy Hospital
+Plot No.01,Chitra Layout L B Nagar
+Hyderabad Telangana Hyderabad 500074 8900080329669
+188 Russh Super Speciality Hospital,
+Alwal Rd, Ramraj Nagar, Ramraju
+Nagar, Jeedimetla, Secunderabad,
+Telangana
+Telangana Hyderabad 500015 8900080352599
+189 Anupama Hospital Eenadu Colony, VV Nagar colony, Main
+Raod, Kukatpally - Hyderabad Telangana Hyderabad 500072 8900080383913
+190 Paramitha Children's Hospital Chitanyapuri Xroads, Dilshuknagar Telangana Hyderabad 500060 8900080163003
+191 Tulasi Hospitals
+A-12, Electronic Complex, Beside SBH,
+Kushaiguda, ECIL, X Roads, Ranga
+Reddy, Hyderabad
+Telangana Hyderabad 500062 8900080163416
+192
+CENTURY SUPER SPECIALITY
+HOSPITAL
+Road No 12, Banjara Hills, Beside Elbit
+Diagnostics
+Telangana Hyderabad 500034 8900080349964
+193 Sai Nursing Home
+Beside Saidabad Bus Stop Main Road,
+Luxury Apartment, Saidabad Main Rd,
+Saidabad, Hyderabad, Telangana
+500059
+Telangana Hyderabad 500059 8900080162730
+194 Supraja Hospitals Nagole "X" Roads, Nagole, Hyderabad -
+500 068.
+Telangana Hyderabad 500068 8900080161801
+195 Spark Eye Care Hospital
+16-2-705/9/12/A-F, opp Reliance
+Trends, New Malakpet Ganj,
+Hyderabad, 500036
+Telangana Hyderabad 500036 8900080160613
+196 SVS Institute of Neurosciences
+Old manjeera hotel, Chappal Bazar,
+Kachiguda, Hyderabad, Telangana
+500027
+Telangana Hyderabad 500027 8900080339521
+197
+Mayflower Hospital For Women
+and Children
+1-19-80/42, P-42, Dr A S Rao Nagar Rd,
+Sainikpuri, Secunderabad, Telangana
+500062
+Telangana Hyderabad 500062 8900080007529
+198 Prasad Hospitals Mallapur Rd, Baba Nagar, Nacharam,
+Secunderabad, Telangana 500076 Telangana Hyderabad 500076 8900080032729
+199 Dr.Kiran's Eye Hospitals Pvt. Ltd
+ 88, Rd Number 1, MIG 1, K P H B Phase
+1, Kukatpally, Hyderabad, Telangana
+500072
+Telangana Hyderabad 500072 8900080356573
+200 Medisys Hospitals plot no 1 to 5, chinthalakunta check
+post l.b.nagar hyderabad Telangana Hyderabad 500074 8900080333529
+201
+Asian Institute Of
+Gastroenterology, H.No.6-3-661, Somajiguda Telangana Hyderabad 500 082 8900080164741
+202
+CYGNUS INSTITUTE OF OF
+GASTROENTEROLOGY
+#34 & 35 Sardar Patel Nagar Nizampet
+X Road Telangana Hyderabad 500018 8900080333154
+203 Ratna Maternity & Nursing Home
+17-1-388/C/19, Santosh Nagar X Roads,
+Vinay Nagar Colony, Hyderabad,
+Telangana 500059
+Telangana Hyderabad 500059 8900080162723
+204 Aruna Hospital
+Plot No. 69 & 70, Road No. 4,
+Chandrapuri Colony, Opposite Vijay
+Laxmi, Theatre, LB Nagar, Hyderabad,
+Telangana
+Telangana Hyderabad 500074 8900080334151
+205 Neelima Hospital
+H:- 7-2-1735/A Opp: Voltas company
+Pvt Ltd, Sanathanagar, Hyderabad,
+Telangana
+Telangana Hyderabad 500018 8900080339002
+206 Abhaya BBC childrens Hospital # 2-1-569, Vidyanagar, Hindi
+Mahavidlaya Complex Telangana Hyderabad 500044 8900080161863
+207 ARCHANA HOSPITAL PVT LTD
+Plot No Sy 99/A, Madinaguda, Beside
+Laxmi Hyundai Showroom, Ranga
+Reddy
+Telangana Hyderabad 500049 8900080162129
+208 Udai Omni Hospital No. 5-9-94, Chapel Road, Opp Red Rose
+Function Hall, Hyderabad, Telangana Telangana Hyderabad 500001 8900080157521
+209 OMNI HOSPITALS - KUKATPALLY
+PLOT NO:20,21,22A,22B,22C,23 AND
+24, BALAJI NAGAR, KUKATPALLY,
+HYDERABAD
+Telangana Hyderabad 500072 8900080328105
+210
+Medivision Eye And Healthcare
+Centre
+10-3-304/F/1 To 4 Indira Sadan, Near
+Pmdc, Masab Tank, Humayan Nagar Telangana Hyderabad 500028 8900080344549
+211 Susheela Hospital E Seva Rd, Ramanthapur, Gaddi
+annaram, Hyderabad, Telangana Telangana Hyderabad 500013 8900080158917
+212 Apex Hospitals
+Plot No. 50, 51, Uppal Depot, Warangal
+Highway, Medipally, Hyderabad,
+Telangana
+Telangana Hyderabad 500098 8900080330726
+213 Kosaraju Hospitals Private Limited
+9-1-43/23, Bapunagar X Road,
+Prashanth Nagar, Langar Houz,
+Hyderabad, Telangana
+Telangana Hyderabad 500008 8900080158382
+214
+Sai Siddhartha Chest and
+Diabetes Centre
+Behind MJS Gardens, Shapurnagar,
+Landmark : Near Raitu Bazar &
+Opposite Hanuman Temple and
+Bharath Petroleum Center,Jeedimetla
+Hyderabad
+Telangana Hyderabad 500055 8900080351943
+215
+JUBILEE HOSPITAL ( SHREE BALAJI
+MULTI SPECIALITY CARE PVT LTD )
+Opp Rythu Bazaar, Alwal,
+Secunderabad, Telangana Telangana Hyderabad 500010 8900080336520
+216
+KIMS Hospital Enterprises Private
+Limited
+1-112/86, Survey No: 55/Ee, Kondapur,
+Serilingampally Mandal Telangana Hyderabad 500084 8900080367074
+217 Rainbow Childrens Hospital
+Plot No 73/C & 73/D, Survey No # 52,
+Saraswathi Nagar Colony,
+Mansoorabad, Village, 500074, LB
+Nagar, Hyderabad, Telangana
+Telangana Hyderabad 500074 8900080351806
+218 Leela Hospital
+Rd Number 2, Madhavi Estate, Moti
+Nagar, Erragadda, Hyderabad,
+Telangana
+Telangana Hyderabad 500018 8900080159273
+219 MaxCure Suyosha
+Behind cyber Towers, Lane Next to
+McDonalds, Backside to Bahar Cafe,,
+Hitech-city, Madhapur, Hyderabad,
+Telangana 500081
+Telangana Hyderabad 500081 8900080330535
+220 Rise Childrens Hospital
+Piller No.92, Opp.Hotel Swagath Grand
+, Moghal-Ka-Nala, Attapur,
+Mehdipatnam
+Telangana Hyderabad 500028 8900080331891
+221 The Birthplace Road No. 2, Banjara Hills, Hyderabad,
+Telangana Telangana Hyderabad 500034 8900080359352
+222 Thumbay Hospital New Life
+16-6-104 to 109, Old Kamal Theater
+Complex, Opp Niagara Hotel,
+Chaderghat, Hyderabad, Telangana
+Telangana Hyderabad 500024 8900080159617
+223 Pace hospital
+Madhapur, HUDA Techno Enclave,
+HITEC City, Hyderabad, Telangana
+500081
+Telangana Hyderabad 500081 8900080341593
+224 MEDS Hospital
+21-4-736, Koka Bazaar, Puranapul,
+Gulab Singh Bowli, Hussaini Alam,
+Hyderabad, Telangana 500064
+Telangana Hyderabad 500064 8900080163577
+225 PRATHIMA HOSPITALS
+ #3/4/3 Station Road
+Kachiguda,Hyderabad Telangana Hyderabad 500027 8900080329843
+226 Shri Adithya Hospitals
+8-50/11, Saket Road,, Near ECIL,
+Damaiguda X Road, Secunderabad,
+Telangana 500083
+Telangana Hyderabad 500083 8900080338401
+227 Siva Eye Hospital
+4-85/3, Vikas Nagar, Rajadhani Theatre
+Ln, Ravi Residency, Krishna Nagar,
+Dilsukhnagar, Hyderabad, Telangana
+500060
+Telangana Hyderabad 500060 8900080163065
+228 MCS Neuro Hospital
+KPHB Phase I, Dharma Reddy Colony,
+Road Number 4, Kukatpally,
+Hyderabad, Telangana 500072
+Telangana Hyderabad 500072 8900080343368
+229 Shyam Hospital
+Panchayati raj teachers colony, beside
+BD reddy gardens, BN Reddy Nagar,
+Saroor Nagar East, Saroornagar,
+Hyderabad, Telangana 500079
+Telangana Hyderabad 500079 8900080334236
+230 Orient Eye Hospital
+#12-2-727/1/A, Inner Ring Road, Opp.
+Pillar No.46, Rethi Bowli,
+Mehdipatnam, Hyderabad, Telangana
+500028
+Telangana Hyderabad 500028 8900080353572
+231 Sunita Childrens Hospital
+Shop No. 82, Opposite Rose Gardens,
+Sagar Road, Santosh Nagar, Hyderabad,
+Telangana 500059
+Telangana Hyderabad 500059 8900080350601
+232 Bhavika Nursing Home
+Shop No. 7-1-212/5, Lane Beside Hotel
+Surya Residency, Shiv Bagh, MVR
+Colony, Ameerpet, Hyderabad,
+Telangana 500016
+Telangana Hyderabad 500016 8900080159013
+233
+Sri Radhika Multi Speciality
+Hospital
+P-82, Subedar Malla Reddy Marg,
+Dhatu Nagar, Kanchan Bagh,
+Hyderabad, Telangana, Dhatu Nagar,
+Kanchan Bagh, Hyderabad, Telangana
+500097
+Telangana Hyderabad 500097 8900080331044
+234 Navjeevan Hospitals
+Plot No. 90, P & T Colony, Vikrampuri,
+Karkhana Road, Hyderabad, Telangana
+500009
+Telangana Hyderabad 500009 8900080338432
+235 Sharada Eye Care
+ Plot No 100, Vanasthali Puram, Near
+Mjm Function Hall, Vanasthlipuram,
+Hyderabad, Telangana 500074
+Telangana Hyderabad 500074 8900080333895
+236 ENT Care Hospital
+Plot Number 336, Calvary Temple Road,
+Matrusri Nagar, Landmark : Near
+Calvary Temple, Hyderabad-500049
+Telangana Hyderabad 500049 8900080062719
+237 IRIS eye hospital
+Lane adjacent to Spencers, Pillar no
+125, Ambience Fort Road, Attapur,
+Hyderabad, Telangana 500048
+Telangana Hyderabad 500048 8900080378667
+238
+Kims Bibi Hospital & Cancer
+Centre
+16-3-991/C, Government Printing Press
+Road, Malakpet, Hyderabad, Telangana
+500024
+Telangana Hyderabad 500024 8900080159587
+239 Landmark Hospitals
+MCK Block 2, Near JNTU Metro Station,
+Opp. Vasantha Nagar arch, Hydernagar
+Main road, Kukatpally, Hyderabad - 85.
+Telangana Hyderabad 500085 8900080332973
+240
+MANJUSUDHA MULTISPECIALITY
+HOSPITAL
+H-NO. 4-20/A, VIKAS NAGAR, E-SEVA
+ROAD, CHAITANYAPURI,
+DILSUKHNAGAR, HYDERABAD. 500060.
+Telangana Hyderabad 500060 8900080162945
+241 Dr. Shantabai Nursing Home
+House No. 5-8-535, Beside Santosh
+Sapna Theatre, Abids Road, Hyderabad,
+Telangana 500001
+Telangana Hyderabad 500001 8900080334069
+242 Hyderabad Eye Hospital
+3-4-875, Barkatpura Circle, Chitrapuri
+Colony, Bagh Lingampalli,
+Narayanguda, Hyderabad, Telangana
+500027
+Telangana Hyderabad 500027 8900080159891
+243 Bhavan's Sarada Devi Hospital
+Dr A S Rao Nagar Rd, Officers Colony,
+Dr AS Rao Nagar, Secunderabad,
+Telangana 500062
+Telangana Hyderabad 500062 8900080165069
+244 Disha Children's Hospital
+3-11-142/N, DVN Complex, Opposite To
+Kamineni Hospital, RTC Colony,L B
+Nagar, Hyderabad, Telangana 500074
+Telangana Hyderabad 500074 8900080163805
+245
+Evya Hospitals and Diabetic
+Research Center
+Mansoorabad Road, Vanasthalipuram,
+Hyderabad - 500070 Telangana Hyderabad 500070 8900080115606
+246 Magnas V ENT Hospitals
+#18-79,Manikanta Crown Complex, 'X'
+Roads,Beside Indian Bank, Main Road,
+Chaitanyapuri, Dilsukhnagar,
+Hyderabad, Telangana 500060
+Telangana Hyderabad 500060 8900080163140
+247 Baabaji Nethralaya
+ MIG-304, 4th Rd, K P H B Phase 1,
+Kukatpally, Near United Bank Of India,
+Hyderabad, Telangana 500085
+Telangana Hyderabad 500085 8900080336575
+248 Manas Eye Hospital
+ 13-1-204/G1, Balaji Swapnapuri
+Colony, Moti Nagar, Near Shiva Reddy
+Sweet Shop, A.G. Colony Road,
+Hyderabad, Telangana 500018
+Telangana Hyderabad 500018 8900080159280
+249
+Himabindu Superspecialty
+Hospital
+Survey No.44, 46 To 48 ,Opp. Alekya
+Towers, Inner Ring road,Near Sagar
+Ring
+Road,Bairamalguda,L.B.Nagar,Hyderaba
+d-500074
+Telangana Hyderabad 500074 8900080373686
+250
+Vasavi Medical Research Center
+(Vasavi Hospital)
+#6-1-91, Lakdikapul, Khairatabad,
+Hyderabad, Telangana 500004 Telangana Hyderabad 500004 8900080327900
+251 Shine Children's Hospital
+273,, 3-3-273, LB Nagar-Uppal Rd,
+Kamala Nagar, Suvidha Arcade, RTC
+Colony, LB Nagar, Hyderabad,
+Telangana 500074
+Telangana Hyderabad 500004 8900080364066
+252 Sunlife's Hospital
+2, Nagaram Rd, Keesara, Ayyappa
+Colony, Nagaram Rd, Keesara, Ayyappa
+Colony, Dammaiguda, Secunderabad,
+Telangana 500083
+Telangana Hyderabad 500083 8900080331648
+253 SBR Pulse Hospitals
+Plot No. 34, Krishnaveni Nagar,
+Opposite Kothapet Fruit Market, Near
+Gaddiannaram Municipal Office,
+Kothapet, Hyderabad, Telangana
+500035
+Telangana Hyderabad 500035 8900080333468
+254
+MicroCare ENT Super Speciality
+Hospital
+MIG 244&245, Road Number 4, K P H B
+Colony, Phase 1, Kukatpally, Landmark :
+Besides Remedy Hospital, Hyderabad -
+500072
+Telangana Hyderabad 500072 8900080163959
+255 Nakshatra Hospitals
+Opp. Swagath Grand Hotel, Alkapuri X
+Roads, LB Nagar-Uppal Rd, East Yadav
+Nagar, Ramakrishnapuram, LB Nagar,
+Hyderabad, Telangana 500035
+Telangana Hyderabad 500035 8900080329263
+256 Raja Hospital
+ Yousufguda Main Rd, Sai Sarathi Nagar,
+Padala Ramareddy Colony, Yousufguda,
+Hyderabad, Telangana 500073
+Telangana Hyderabad 500073 8900080331471
+257 Srihitha Hospitals
+17-74/5, Road Number 4, Srinagar
+Colony, Vijeta Kalyan Enclave, Kamala,
+Nagar, Dilsukhnagar,
+Hyderabad,Telangana 500060
+Telangana Hyderabad 500060 8900080367722
+258 Shree Pooja Hospital
+1-29, Nacharam Mallapur Rd,HMT
+NAGAR, Tarnaka, Secunderabad,
+Telangana 500076.
+Telangana Hyderabad 500076 8900080353831
+259 Safe childrens Hospital
+16-2-741/D/5, Beside T.V. Tower,
+Moosarambag X Road, Malakpet,
+Hyderabad, Telangana 500036
+Telangana Hyderabad 500036 8900080354913
+260 Fatima Hospital
+9-2-24/20/7/6, New Idgah Road,
+Jahannuma, Nawab Saheb Kunta,
+Hyderabad, Telangana 500053
+Telangana Hyderabad 500053 8900080045712
+261 Poulomi Hospital
+Plot No. A-2 & B-17, Rukminipuri
+Colony, Dr. A. S. Rao Nagar Main Road,
+Near Sainikpuri, Secunderabad,
+Telangana 500062
+Telangana Hyderabad 500062 8900080163348
+262 Surekha Hospital Kompally, Hyderabad, Telangana
+500100
+Telangana Hyderabad 500100 8900080350106
+263
+Soumya Hospital For Women &
+Children
+Shop No. 12-2-709/C/15 Khadar Bagh
+Road, Opp Med plus Pharmacy, Near,
+Lakshmi Nagar X Roads,Padmanabha
+Nagar Colony,Pillor no:68,Ring,
+road,Mehdipatnam, Hyderabad,
+Telangana 500028
+Telangana Hyderabad 500028 8900080381575
+264 New Life Line Medicure Hospital
+1-13-21, Lothkunta Signal, Opp: Nartaki
+Tiffins, Lothkunta, Alwal Secunderabad500010
+Telangana Hyderabad 500010 8900080355798
+265 ANKURA HOSPITALS
+Plot 55 & 56, Jntu Hitech City Road,
+Near Hitech City Railway Station, Kphb,
+7th phase, Kukatpally, Hyderabad,
+Telangana 500072
+Telangana Hyderabad 500072 8900080163768
+266 ANKURA HOSPITALS
+#8-2, 686/B, Rd Number 12, NBT Nagar,
+Banjara Hills, Hyderabad, Telangana
+500034
+Telangana Hyderabad 500016 8900080329898
+267 ANKURA HOSPITALS
+Beside ICICI Bank, Sainikpuri, A S Rao
+Nagar, Hyderabad, Telangana 500062 Telangana Hyderabad 500062 8900080329867
+268 ANKURA HOSPITALS
+Beside Icici Bank Main Road,,
+Peerzadiguda, Boduppal, Hyderabad,
+Telangana 500039
+Telangana Hyderabad 500039 8900080329874
+269 ANKURA HOSPITALS
+Beside Bharat Petrol, Deepthisri Nagar,
+Madinaguda, Hafeezpet, Hyderabad,
+Telangana 500050
+Telangana Hyderabad 500050 8900080329836
+270 Srikara Hospitals
+ Street Number 7, Sri Durga Enclave,
+SBH Colony, LB Nagar, Hyderabad,
+Telangana 500074
+Telangana Hyderabad 500074 8900080340237
+271 Vijaya Hospital
+9-12, S.V Nagar, Nagaram Main Road,
+Near Bus Stop, ECIL, Hyderabad,
+Telangana 500083
+Telangana Hyderabad 500083 8900080341678
+272 SUDHA HOSPITAL
+H.NO. 30-1587/1,PLOT
+NO.25,CHANDRA GIRI COLONY,KRUPA
+COMPLEX,BESIDE BOI ,OLD
+SAFILGUDA,MALKAJGIRI,MEDCHAL
+DIST,SECUNDRABAD.500047
+Telangana Hyderabad 500047 8900080389311
+273 Raman Hospital
+ House No 6-151/1, Behind Chintal Bus
+Stop,Knj Function Hall,Near Bata,
+Showroom, Sudharshan Reddy Nagar,
+Chintal, Hyderabad - 500054
+Telangana Hyderabad 500054 8900080162396
+274 Sreshta Sri Kamala Hospitals
+ #11-11-739/1&2, Gaddianaram,
+Dilsukhnagar, Hyderabad, Telangana
+500060
+Telangana Hyderabad 500060 8900080163881
+275 Sri Narmada Hospital Door No 1-1-770/A, Gandhi Nagar,
+Hyderabad - 500020 Telangana Hyderabad 500020 8900080164635
+276 RISHAB EYE CENTRE
+35-60/1, G.K.COLONY, SAINIKPURI,Near
+NEREDMET X ROAD, HYDERABAD,
+Telangana Hyderabad 500094 8900080165083
+277
+Arunodaya Multi Speciality
+Hospital
+Sharada Arcade, H.No:3-1-47, P.No:47&
+48, Jayadeepika Estate, Rajiv Gandhi
+Nagar, Bachupally, Hyderabad,
+Telangana 500090
+Telangana Hyderabad 500090 8900080364905
+278 Vijaya Hospital
+1-58/7/3, 3rd Floor, Beside St. Ann's
+School Arch, Madinaguda, Hyderabad,
+Telangana 500049
+Telangana Hyderabad 500049 8900080327818
+279 B. V. K. Reddy Hospital 12-11-1256, Boudha Nagar Road,
+Secunderabad, Telangana 500061 Telangana Hyderabad 500061 8900080329737
+280 Shashi Hospital
+Door No 6,Beside Andhra Bank ATM,
+Dilsukh Nagar, Gaddiannaram,
+Hyderabad, Telangana 500036
+Telangana Hyderabad 500036 8900080161344
+281
+Suraksha Women&Childrens
+Hospital
+Door No 3-1-21, Anshu Classy,
+Kompally Road, Opposite Balaji
+Hospital, Beside Jaya Garden, Pet
+Basheerabad, Hyderabad - 500055.
+Telangana Hyderabad 500055 8900080339156
+282 Suraksha Childrens Hospital
+ 12-13-43, Beside Tarnaka Flyover,
+Tarnaka, Secunderabad, Hyderabad,
+Telangana 500017
+Telangana Hyderabad 500017 8900080159235
+283
+Sridevi Maternity and Nursing
+Home
+12-11-253, Mylargada Road,
+Warasiguda, Secunderabad, 500061 Telangana Hyderabad 500061 8900080163249
+284 Ks Multispecialty Hospital
+plot no.3, Bapuji nagar,opp: Sarojini
+Pulla reddy House, Bowenpally,
+Hyderabad - 500011.
+Telangana Hyderabad 500011 8900080377998
+285 Safe Kids
+Pillor no 108, Inner Ring Rd, Moghal
+Nagar, Karwan, Hyderabad, Telangana
+500006
+Telangana Hyderabad 500006 8900080367104
+286 Mana Hospitals
+498, Rd Number 2, Chaitanya Nagar,
+Vivekananda Nagar, Kukatpally,
+Hyderabad, Telangana 500072
+Telangana Hyderabad 500072 8900080376199
+287
+Hyderabad MultiSpeciality
+Hospital
+ 16-2-674/11, Judges Colony, New
+Malakpet, Hyderabad, Telangana
+500059
+Telangana Hyderabad 500059 8900080346338
+288 Vinn Hospital
+ 7-1-21, Railway Station Road, Uma
+Nagar, Begumpet, Hyderabad,
+Telangana 500016
+Telangana Hyderabad 500016 8900080382947
+289 R K Multi Speciality Hospital Manda Mallama X Road, Karmanghat, ,
+Hyderabad, Telangana - 500079 Telangana Hyderabad 500079 8900080162822
+290 Bristlecone Hospitals
+Thorruur 'X' Road,Previously Titan
+Hospital Building,NH 9, Besides Sai
+Baba Temple,Hayathnagar, Telangana -
+501 505
+Telangana Hyderabad 501505 8900080329911
+291 Sri Siddeshwara Hospital
+Sagar Road, Malla Reddy Nagar, Saroor
+Nagar East, Champapet, Hyderabad,
+Telangana 500079
+Telangana Hyderabad 500079 8900080356917
+292 Nandini Hospitals
+Plot No 156, Netaji Nagar X Roads, HiTension Road, Sainikpuri,
+Secunderabad, Telangana 500094
+Telangana Hyderabad 500094 8900080368590
+293 Sri Sai balaji Hospital
+Rock Town Residents Colony, Sai Nagar,
+Chanakyapuri, Hyderabad, Telangana
+500068
+Telangana Hyderabad 500068 8900080162358
+294 MAA ENT HOSPITALS
+H. No. 8-2-293/82/A/1266,
+Road No. 36, Jubilee Hills,
+Hyderabad – 500 033
+Telangana Hyderabad 500033 8900080369788
+295 Germanten Hospital # 4-8-138/1/B, opp:Pillar No 150,
+Attapur
+Telangana Hyderabad 500048 8900080389588
+296 Zoi Hospital
+#6-3-1106/1/A, RajBhavan Road,
+Somajiguda, Hyderabad,
+Telangana – 500082
+Telangana Hyderabad 500082 8900080164956
+297 Zoi Hospital Pillar Number 147, Attapur, Hyderabad,
+Telangana 500048 Telangana Hyderabad 500048 8900080380721
+298 Jeevan Hospital
+8-4-21-5, Beside Mega Function Hall,
+Pavan Puri Colony, Karmanghat, Sagar
+Road, Hyderabad, Telangana 500079
+Telangana Hyderabad 500079 8900080164598
+299
+Preeti Urology and Kidney
+Hospital
+307, Road No.4, MIG 1, Kukatpally
+Housing Board Colony, Kukatpally,
+Hyderabad, Telangana 500072
+Telangana Hyderabad 500072 8900080348707
+300
+SOLIS EYE CARE HOSPITALS PVT
+LTD
+Plot No 13, SVK Towers,
+Kushaiguda Main Road,
+ECIL’X’ Road, Secunderabad
+Telangana - 500062
+Telangana Hyderabad 500062 8900080386907
+301
+Sundari Maternity & General
+Hospital
+Rajiv Nagar, Alwal, Secunderabad,
+Telangana 500010 Telangana Hyderabad 500010 8900080158641
+302 Srishti Eye Centre
+Nukkula Arcade, Above Canara Bank,
+10-2-300/A/2, Vijayanagar Colony Main
+Road, Hyderabad, 500057
+Telangana Hyderabad 500057 8900080391178
+303 MAAX LIFE HOSPITALS
+ 8-8-407/1/A/529, Champapet Rd,
+Sriram Nagar Colony, Sai Nagar, APSRTC
+Officers Colony, Karmanghat,
+Hyderabad, Telangana 500079
+Telangana Hyderabad 500079 8900080385047
+304 Amrita ENT Head & Neck hospital
+ HIG 450 , next to MORE super market,
+diagonally opposite to Manjeera Mall,
+JNTU-HITEC city road.KPHB phase
+VI.Kukatpally ., Hyderabad, Telangana
+500072
+Telangana Hyderabad 500072 8900080197626
+305 Vascular Care Centre
+6-3-649, Somajiguda, Near Maheswari
+Chambers, Hyderabad, Telangana
+500082
+Telangana Hyderabad 500082 8900080332768
+306
+Kruthi Hospital Advanced Eye &
+Dental Care
+Plot No. 27 & 28, Hasmathpet Road,
+Bowenpally Beside Reliance Fresh
+Super Market,
+Secundrabad, Hyderabad, Telangana –
+500011
+Telangana Hyderabad 500011 8900080390379
+307 Geeta Multi Speciality Hospital
+1-7-90, Chaitanyapuri Cross Road, Next
+to Swapna Hospital, Pratap Nagar,
+Dilsukhnagar, Hyderabad, Telangana
+500060
+Telangana Hyderabad 500060 8900080162884
+308 Pulse Hospital
+IDPL, Jeedimetla Main Road, Chandra
+Nagar, Behind Gautami Techno School,
+Hyderabad, Telangana 500037
+Telangana Hyderabad 500037 8900080162372
+309 Nethra Eye Institute
+Door No. 8-3-215, Opposite ICICI Bank
+(S R Nagar Branch), Srinivasa Nagar
+Colony West, Ameerpet Road,
+Hyderabad, Telangana 500038
+Telangana Hyderabad 500038 8900080326668
+310 Smart Vision Eye Hospitals
+Plot No. 143, Sagar Society,
+Venkateshwara Colony, Sree Nagar
+Colony,
+Near Ratnadeep Super Market,
+Hyderabad., Telangana 500073
+Telangana Hyderabad 500073 8900080391338
+311 Metro Cure Hospitals
+16-2-661/EFGH, Judges Colony, Lane
+Beside Bajaj Electronics, Malakpet,
+Hyderabad, Telangana 500036
+Telangana Hyderabad 500036 8900080161382
+312 Prerana Hospital
+Sri Ramnagar Colony, PuppalagudaManikonda Main Road, Hyderabad,
+Telangana 500089
+Telangana Hyderabad 500089 8900080391758
+313 Rohan Hospital
+Vijay nagar Colony, Opp Vijaya Bank,
+Beside post office, Mehdipatnam,
+Hyderabad, Telangana 500028
+Telangana Hyderabad 500028 8900080162624
+314
+RAMESH LASIK AND LASER
+CENTRE
+3-6-273/274, 3rd Floor,, Apurupa L N
+Chambers, Above Indusind Bank,, Near
+Old MLA Quaters, Opp Telangana
+Tourism, Himayath nagar, Hyderabad29, Hyderabad, Telangana 500029
+Telangana Hyderabad 500029 8900080381551
+315 Dr. Laxman's Children Hospital Plot No. 3 And 4, Main Road, Shapur
+Nagar, Hyderabad, Telangana 500055 Telangana Hyderabad 500055 8900080162433
+316
+Apollo Institute of Medical
+Science & Research
+Apollo Health City Campus,Jubilee
+Hills,Hyderabad-500096 Telangana Hyderabad 500096 8900080376472
+317 Sunshine Hospitals
+ 7-56/19, Survey no 40,45,46, Dargah
+Road, LIG Chitrapuri Colony, Rai Durg,
+Telangana 500008
+Telangana Hyderabad 500008 8900080384873
+318 L. V. Prasad Eye Institute
+Kallam Anji Reddy Campus, L V Prasad
+Marg, Banjara Hills, Opp. PVR,
+Hyderabad, Telangana 500034
+Telangana Hyderabad 500034 8900080160903
+319 Lotus Cure Hospital
+3-16-668/A, All Saints Road, Dinakar
+Nagar Colony, Kushalchand Colony,
+Trimulgherry, Secunderabad, Telangana
+500015
+Telangana Hyderabad 500015 8900080386242
+320
+Lotus Hospitals for Women &
+Children
+D. No: 6-2-29, Lakdikapul Road,
+Hyderabad, Telangana 500004 Telangana Hyderabad 500004 8900080018617
+321
+Lotus Hospitals for Women &
+Children
+15, JNTU - Hitech City Road, BHEL HIG
+Phase 2, Kukatpally Housing Board
+Colony, Kukatpally, Hyderabad,
+Telangana 500072
+Telangana Hyderabad 500072 8900080026865
+322 Naidu Eye Hospital
+Plot No. 26-27-29, Naidu Eye Hospital
+Complex, Near Vijetha Super Market,
+Madinaguda, Hyderabad, Telangana
+500049
+Telangana Hyderabad 500049 8900080390829
+323 Avani Laser Eye Hospital
+Plot No. 14, Alkapuri Main road Near
+Sai Baba Temple, Alkapuri Saroor nagar
+mandal, Hyderabad, Telangana 500035
+Telangana Hyderabad 500035 8900080161061
+324 M.S.REDDY LIONS EYE HOSPITAL
+APHB Colony, Moulali,
+Hyderabad – 500040,
+040-27136994.
+Telangana Hyderabad 500040 8900080161832
+325 Calcium Hospital
+Behind ICICI Bank ATM, Opp Akshara
+school, HT Road, Nizampet Rd,
+A.S.R.Raju Nagar, Hyderabad, 500072
+Telangana Hyderabad 500072 8900080389397
+326 Swarup Eye Centre
+Plot No. 145, Dwarakapuri, Punjagutta,
+Hyderabad, Telangana 500082 Telangana Hyderabad 500082 8900080164895
+327 Sri Sri Holistic Hospitals
+#1-2-49/13B, Nizampet Road,
+Hydernagar, Kukatpally, Hyderabad,
+Telangana 500072
+Telangana Hyderabad 500072 8900080352124
+328 CITI NEURO CENTRE
+Hyderabad Institute of Neuro Science
+Pvt. Ltd. MLA Colony, Road No.12,
+Banjara Hills, Hyderabad-34
+Telangana Hyderabad 500034 8900080371033
+329 Refracto Eye Hospital 1st Floor QZ Plaza Kondapur Hyderabad500084
+Telangana Hyderabad 500084 8900080381742
+330 Refracto Eye Hospital Above TMC, Green Park Avenue, Near
+Suchitra Circle,Hyderabad-500084 Telangana Hyderabad 500084 8900080391932
+331 Avis Hospitals
+Plot no 99, road no 1, jubilee hills, Next
+to chiranjeevi blood bank, Hyderabad,
+Telangana 500033
+Telangana Hyderabad 500033 8900080336940
+332 Geetha Multi Speciality Hospital
+Road No. 4, West Marredpally,
+Opposite SBI, Secunderabad, Telangana
+500026
+Telangana Hyderabad 500026 8900080337190
+333
+Srikara hospitals ( a unit of
+Venkateshwara Ortho healthcare
+pvt ltd)
+Main road, NH-7, Near Cine
+planet,Kompally, Hyderabad 500074. Telangana Hyderabad 500074 8900080405929
+334
+Raghavendra Srikara Hospitals( a
+unit of Venkateshwara Ortho
+healthcare pvt ltd)
+1-7-100, opp shivalayam, Kamala
+nagar,A.S. Rao nagar, ECIL cross road,
+Hyderabad 500072.
+Telangana Hyderabad 500072 8900080163362
+335 MYTHRI HOSPITAL
+ Opp. Pillar No. 81, PVNR Exp Highway,
+Inner Ring Road, Maruthi Nagar,
+Mehdipatnam, Hyderabad, Telangana
+500008
+Telangana Hyderabad 500008 8900080158405
+336 NephroPlus Dialysis Center
+ 3rd floor, Door No:8-2-
+603/1/3/B,Vintage Plaza, Road
+No:10,Banjara Hills,Hyderabad –
+500034Phone No: 7997003111
+Telangana Hyderabad 500034 8900080160927
+337 NephroPlus Dialysis Center
+ 1st & 2nd Floor, Gude’s Plaza,Above
+ICICI Bank,#77, Seshachala Colony,East
+Marredpally main Road,Secunderabad
+– 500026Telephone: 040-40063765
+Telangana Hyderabad 500026 8900080159754
+338
+HIGH SIGHT SUPER SPECIALITY
+EYE HOSPITAL
+8-2-593/3,PLOT.NO.11A & llB,
+ROAD.NO.10, EDEN GARDEN, BANJARA
+HILLS,HYDERABAD- 500034
+Telangana Hyderabad 500034 8900080396258
+339
+Rainbow Children's Heart
+Institute
+Plot No 22, Rd Number 10, Avenue 4,
+Banjara Hills, Hyderabad, Telangana
+500034
+Telangana Hyderabad 500034 8900080418646
+340 Shenoy Hospitals 10-3-4, Entrenchment Road, East
+Marredpally, Secunderabad - 500026 Telangana Hyderabad 500026 8900080159792
+341 Himagiri Hospitals
+ Plot No.4,5,23 & 24, Gachibowli
+Stadium Main Road, Hyderabad,
+Telangana 500032
+Telangana Hyderabad 500032 8900080333000
+342 Health Care Hospitals
+Sagar Ring Road, LB Nagar Rd,
+Rajyalaxmi Nagar, SBH Colony, L. B.
+Nagar, Hyderabad, Telangana 500074
+Telangana Hyderabad 500074 8900080164406
+343 Pavan Sai Hospital
+187-188, Nagole Rd, Rock Town
+Residents Colony, Sai Nagar, LB Nagar,
+Hyderabad, Telangana 500074
+Telangana Hyderabad 500074 8900080388888
+344
+NATIONAL INSTITUTE OF
+GASTROETEROLOGY AND LIVER
+DISEASE
+PLOT NO 344A MLA COLONY, ROAD NO
+12, BANJARAHILLS HYDERABAD 34 -
+PHONE NO 04042859999
+Telangana Hyderabad 500034 8900080392793
+345 SLG Hospitals SLG Circle, Krishnaja Hills, Nizampet,
+Hyderabad, Telangana 500090 Telangana Hyderabad 500090 8900080418240
+346 ONUS Hospitals
+Beside Lucky Bawarchi Hotel,
+Champapet, Hyderabad, Telangana
+500079
+Telangana Hyderabad 500079 8900080395220
+347 Alavi Hospital
+5-120, Jeedimetla Main Road, Sri Sai
+Colony, Chandra Nagar, Balanagar,
+Hyderabad, Telangana 500055
+Telangana Hyderabad 500055 8900080414723
+348 ANAND EYE INSTITUTE PVT LTD
+7-147/1, NAGENDRA NAGAR
+COLONY,OPP. INDIAN OIL PETROL
+PUMP,HABSIGUDA MAIN
+ROAD,HYDERABAD - 500 007
+Telangana Hyderabad 500007 8900080158344
+349 Amma Eye Care Hospital
+Near, L B Nagar, Chintal Kunta Check
+Post, Hyderabad - Vijayawada Hwy,
+Vanasthalipuram, Hyderabad,
+Telangana 500074
+Telangana Hyderabad 500074 8900080031043
+350 UDBHAVA HOSPITALS
+Jagdish Complex,Beside Andhra Bank,
+Miyapur Road, NH65, Ambedkar Nagar,
+Miyapur, Hyderabad, Telangana
+500049
+Telangana Hyderabad 500049 8900080412620
+351
+UDBHAVA HOSPITAL FOR
+WOMEN & CHILDREN
+MIG - 196, KPHB Road Number 1, K P H
+B Phase 1, Kukatpally, Hyderabad,
+Telangana 500072
+Telangana Hyderabad 500072 8900080164147
+352 Janapareddy Hospital 26/A, Sikh road, Sikh village, Near
+Diamond Point, Secunderabad-500009 Telangana Hyderabad 500009 8900080158511
+353 Swapna Health Care
+ Door No. 6-3-1111/19, Beside Kirtilal
+Diamonds Showroom, Nishath Bagh,,
+Begumpet, Hyderabad, Telangana
+500016
+Telangana Hyderabad 500016 8900080159105
+354
+AIG HOSPITALS
+ (A Unit of Asian
+Institute of Gastroenterology Pvt
+Ltd)
+2/3/4/5, GACHIBOWLI, HYDERABAD500032
+Telangana Hyderabad 500032 8900080389038
+355
+Ankura Hospital for Women &
+Children
+12-234, Adarsh Nagar, Opp: IDPL
+Colony Balanagar, Secunderabad,
+Hyderabad, Telangana 500037
+Telangana Hyderabad 500037 8900080407534
+356
+Ankura Hospital for Women &
+Children
+12-2-783/12, PV Narasimha Rao Expy,
+opp. Pillar Number 34, Rethibowli,
+Mehdipatnam, Hyderabad, Telangana
+500028
+Telangana Hyderabad 500028 8900080412101
+357 Shreya hospital 6-50, Anand Nagar, Bapu Nagar,
+Serilingampalle (M), Telangana 500019 Telangana Hyderabad 500019 8900080384125
+358 C C Shroff Hospital 3-4-801, Near Tourist Hotel, Kachiguda,
+Hyderabad, Telangana 500027 Telangana Hyderabad 500027 8900080159877
+359 Anupama Hospital
+JNTU Road, Near Malaysian Town Ship
+Circle,
+KPHB Colony, Kukatpally, Hyd-72.
+Telangana Hyderabad 500072 8900080163775
+360 St Theresa's Hospital Oppsite Erragadda Rythu Bazar, Sanath
+Nagar, Hyderabad, Telangana 500038 Telangana Hyderabad 500038 8900080331440
+361 Dr.Agarwal's Eye Hospital Old MLA Hostel Road, Himayat Nagar,
+Hyderabad, Telangana - 500 029 Telangana Hyderabad 500029 8900080491441
+362 Dr.Agarwal's Eye Hospital
+Mumtaz Complex, Mehdipatnam,
+Rethibowli,
+Junction,Hyderabad,Telangana,500028
+Telangana Hyderabad 500028 8900080472730
+363 Dr.Agarwal's Eye Hospital
+Radhika Reddy Arcade Plot No. 3&53
+Colony, Jayabheri Pine Valley,
+Gachibowli, HyderabadTelangana
+500032
+Telangana Hyderabad 500032 8900080456051
+364 Dr.Agarwal's Eye Hospital
+ Hanuman Towers,No.9-7-214/1,
+215,217,Maruthi Nagar,
+Santhosh Nagar Main Road, Hyderabad
+500059.
+Telangana Hyderabad 500059 8900080311039
+365 Eyeris Eye Care Hospital
+302, 3rd floor, Teja Dream Plaza, 3rd
+Avenue, Landmark: Near 5th Avenue
+Bakery, Hyderabad 500083
+Telangana Hyderabad 500083 8900080449411
+366
+Femcity: Women & Children
+Hospitals
+Femcity Hospital, Aditya Ellen Plaza,
+Srinagar Colony Main Rd, opp. D-Mart,
+Shaikpet, Hyderabad, Telangana
+500008
+Telangana Hyderabad 5000008 8900080423985
+367 Keshav Netralaya Bela X Road, Sha-Ali-Banda, Charminar,
+Hyderabad-500065 Telangana Hyderabad 500065 8900080433229
+368 EYE MAX EYE HOSPITAL
+42, Rd Number 1, Beside Mahindra
+motor's, P&T Colony, Sai Residency,
+Canara Nagar, Boduppal, Hyderabad,
+Telangana 500098
+Telangana Hyderabad 500098 8900080350236
+369 N VISION EYE CARE,
+ 7-1-63/2, Near Challa hospital, Opp
+Vaishali Apartments, Dharam Karan Rd,
+Ameerpet, Hyderabad, Telangana
+500016
+Telangana Hyderabad 500016 8900080482043
+370 Eyecure Hospital Ward No 7 Secunderabad, Lal Bazaar,
+Trimulgherry Telangana Hyderabad 500015 8900080451759
+371 Abhinav Eye Care & Laser Centre, Om Vihar Colony, Medipally, Canara
+Nagar, Peerzadiguda, Telangana Hyderabad 500098 8900080454712
+372 Sharp Vision Eye Hospital 8-1-298/C/1, Dwaraka Nagar Colony,
+KLM Villa, Shaikpet Telangana Hyderabad 500008 8900080468726
+373 Renova Hospitals
+ Plot No. 34, 34/A, Medchal Rd,
+Petbasheerabad, NCL Enclave South,
+Caton Residential Twp, Kompally
+Telangana Hyderabad 500055 8900080162402
+374 Renova Neelima Hospital
+Voltas company Pvt Ltd, Opp:, 7-2-
+1735, Sanath Nagar Main Rd, Sanath
+Nagar
+Telangana Hyderabad 500018 8900080339002
+375 Renova Hospitals
+Langar House Rd, opposite Bapu Ghat,
+Bapu Nagar, Langar Houz, Hyderabad,
+Telangana 500008
+Telangana Hyderabad 500008 8900080158443
+376 Maven Medical Center 8-2-277, B/1, Road No. 2, BNR Colony,
+Venkat Nagar, Banjara Hills Telangana Hyderabad 500034 8900080406346
+377
+Raghavendra Multi-specialty
+Hospitals
+s, 53, Malani Housing Colony, Thokatta,
+Tar Bund Telangana Hyderabad 500009 8900080335363
+378 Bhagyalatha Hospital
+Bhagyalatha Colony, Near Bhagyalatha
+Bus Stop Shivalayam Temple Road,
+Vanasthalipuram, Hayathnagar_Khalsa,
+Telangana 500070
+Telangana Hyderabad 500070 8900080163652
+379
+Mamata Academy of Medical
+Sciences Hospital Bollaram Industrial Area Telangana Hyderabad 500090 8900080426412
+380
+Hyderabad Urology and
+Andrology Hospital
+H No, 11-9-103/A, Rd Number 1,
+behind Omni Hospital, Prabhat Nagar,
+Laxmi Nagar Colony, Kothapet
+Telangana Hyderabad 500035 8900080450639
+381 Saptagiri Hospital
+ 3-112, Pochamma Temple Lane,
+Millenium Residency, Chaitanayapuri X
+roads, Dilshukanagar
+Telangana Hyderabad 500060 8900080163201
+382 Mirra Multispeciality Hospital
+Plot No.32-40, Alluri Seeta Rama Raju
+Colony, Jaya Prakash Narayan Nagar,
+Miyapur X Road
+Telangana Hyderabad 500049 8900080350038
+383 PRK Hospitals Sy No - 360, No - 5/4 - 12-16, NH 65,
+Chanda Nagar Telangana Hyderabad 500050 8900080438521
+384 Renova Soumya Cancer Centre
+PLOT NO.3, 7-218 & 219, behind DC
+Greens, R & D Colony, Karkhana Telangana Hyderabad 500015 8900080493087
+385 Shree Meenakshi Eye Hospital
+SBI bank, 2-1-503/2, Street no 8,
+Nallakunta Main Rd, beside Nallakunta,
+New Nallakunta
+Telangana Hyderabad 500044 8900080506206
+386 Max Health Hospitals
+No 15-24-212, H, No 212, Rd Number 1,
+Kukatpally Housing Board Colony,
+Kukatpally
+Telangana Hyderabad 500072 8900080480292
+387
+Ankura Hospital for Women &
+Children
+Plot No. 10, 11, 12, Survey No. 9/1/J
+Saroornagar, LB Nagar, opp.
+UNLIMITED
+Telangana Hyderabad 500035 8900080466289
+388 Sidarth Hospitals
+Plot No. 196, Beside South India
+Shopping Mall and Behind Ratnadeep
+Retail Store, Mythri Nagar,
+Madinaguda, near to Chandanagar,
+Telangana Hyderabad 500049 8900080467705
+389 Sri Madhavi Eye Care 4-106/C, Lane Number 3, beside HPS,
+Sai Chitra Nagar, Ramanthapur Telangana Hyderabad 500013 8900080526877
+390 Best Vision Eye Hospital
+Pillar No, Best Vision Eye Hospital,
+1729, Madhapur Rd, Phase 2, Kavuri
+Hills, Madhapur
+Telangana Hyderabad 500081 8900080486966
+391 Medicover cancer Institute
+Opposite Cyber Gateway Beside IBIS
+hotel, opposite cyber gateway, HUDA
+Techno Enclave, HITEC City
+Telangana Hyderabad 500081 8900080455238
+392 Medicover Hospitals
+Door No 22, Opposite Gandemma
+Temple, Near BHEL Circle
+Ramachandrapuram, Road
+Telangana Hyderabad 502032 8900080455368
+393
+Think Eye Superspeciality Eye
+Hospital
+4th floor, ARD MAGNUM green hills
+road, Moosapet, Kukatpally,
+Hyderabad, Telangana 500018
+Telangana Hyderabad 500018 8900080487000
+394 Shalini Eye Hospital
+Raghuram Apartments, beside HDFC
+Bank, Raghuram Nagar Colony,
+Bandlaguda Jagir
+Telangana Hyderabad 500086 8900080491731
+395 Srihitha Eye Care Centre
+ 6-7-1/A, Qutubullapur Main Road,Ist
+floor,opp.Santosh Dhaba, Quthbullapur
+Main Rd, beside pirgal electronics,
+Suchitra
+Telangana Hyderabad 500067 8900080481060
+396 S.V. Pooja Hospital
+Hydernagar, Plot No.33, Rd Number 14,
+Dharma Reddy Colony Phase I,
+Kukatpally
+Telangana Hyderabad 500072 8900080164048
+397 Paramitha Children's Hospital NCL Enclave South, Caton Residential
+Twp, Jeedimetla Telangana Hyderabad 500067 8900080429154
+398 Tx Hospitals 3-2-841/1, Kachiguda Station Rd,
+Mahalaxmi Nilayam, Kachiguda Telangana Hyderabad 500027 8900080465428
+399 Tx Hospitals 2-6-71, near Masjid, Bharat Nagar
+Colony, Uppal Telangana Hyderabad 500039 8900080161719
+400 Pranahitha Hospital
+ H.no- 13-3-10/B Hanuman Nagar, Pillar
+No: A, 1555, Chaitanyapuri,
+Dilsukhnagar
+Telangana Hyderabad 500036 8900080536111
+401 Safe Super Speciality Hospitals
+Plot No. 1, 2, 3 & 4, behind Sri Sita
+Ramachandra Swamy Devalayam,
+Petbasheerabad, Kompally
+Telangana Hyderabad 500067 8900080426689
+402 NICE Hospital
+10-2-247 & 248, beside Employment
+Exchange, off Masab Tank Road,
+Shantinagar Colony, Masab Tank
+Telangana Hyderabad 500057 8900080160156
+403 Goutam Neuro Care
+ H.No.261, MIG, Road No. 4, Kukatpally
+Housing Board Colony, Kukatpally Telangana Hyderabad 500072 8900080464339
+404
+Padmavathi Gastro and Liver
+Hospital
+Madhava Nagar Colony, Old Shilpa
+Nursing Home premises, Plot No. 12 &
+13, Sai Ranga Theatre Rd, beside Sai
+Ranga theatre, Hafeezpet, Miyapur
+Telangana Hyderabad 500050 8900080435117
+405 Sree Manju Hospitals KPHB 5th Phase, opp. Brand Factory,
+KPHB 5th Phase, Kukatpally Telangana Hyderabad 500072 8900080474772
+406 Ananya Hospital H.No:5-1-97/B/NR, Ramalayam Rd,
+near Old Shivalayam Temple Complex Telangana Hyderabad 500072 8900080431775
+407
+Vishnu Paramitha women &
+children's Hospital
+NH 65, Gouthami Nagar Colony,
+Jawahar Colony, Chanda Nagar Telangana Hyderabad 500050 8900080493735
+408 Kingston Hospitals Banjara Hills Rd Number 1, Owaisi Pura,
+Masab Tank Telangana Hyderabad 500028 8900080501959
+409
+Tricolour Hospital and Critical
+Care
+ Amberpet Main Rd, Bharat Nagar,
+Amberpet Telangana Hyderabad 500013 8900080444959
+410 Amor Hospitals
+ 6-16/31/5, NH65, KKR NKNR
+Commercial Complex, Habeeb Nagar,
+Kukatpally
+Telangana Hyderabad 500072 8900080497733
+411 Pristine Eye Hospitals
+Summit, Survey No.64, Ground and first
+Floor No.25, HUDA Techno Enclave,
+Madhapur, Serilingampalle
+Telangana Hyderabad 500081 8900080522787
+412 Supriya Eye Hospital
+H.No: 6-94/13/4, Plot No: 103,
+Manjeera Pipeline Rd, HUDA Colony,
+Chanda Nagar
+Telangana Hyderabad 500050 8900080494305
+413
+STORK MULTISPECIALITY
+HOSPITAL
+H.NO.1-76/1/ C-35,GANGA ENCLAVE,
+Petbasheerabad, Kompally Telangana Hyderabad 500067 8900080456303
+414 Nikhil Hospitals Srinagar Colony Main Rd, SBH Colony,
+Ameerpet
+Telangana Hyderabad 500073 8900080353886
+415 Nikhil Hospitals Gaddi Annaram Cross Road, Dilsukh
+Nagar Main Rd, Dilsukhnagar Telangana Hyderabad 500036 8900080360662
+416 Prime Retina Eye Care Centre
+3-6-106/1, Street Number 19, Opposite
+to Vijaya Diagnostic Centre,
+Himayatnagar, AP State Housing Board,
+Himayatnagar
+Telangana Hyderabad 500029 8900080473751
+417
+Medicover Woman and Child
+Hospital
+Behind cyber Towers, Lane Next to
+McDonalds, Backside to Bahar Cafe,
+Hitech-city, Madhapur
+Telangana Hyderabad 500081 8900080116016
+418 Srikara Hospitals
+Beside KLM Fashion Mall Lane,
+Opposite Tulip Grand Hotel Medipally,
+Peerzadiguda, Boduppal
+Telangana Hyderabad 500098 8900080479159
+419
+PARAMITHA WOMEN AND
+CHILDREN'S HOSPITAL
+Plot 17, Road No 1,IDPL,chintal
+Hyderabad, Telangana MIG-1,APHB
+colony, hydrabad, opp. idpl colony,
+Chinthal
+Telangana Hyderabad 500037 8900080516335
+420 Butterfly Hospitals Pillar No. 91 Attapur, Nehru Outer Ring
+Rd Telangana Hyderabad 500028 8900080482425
+421 Citi Neuro Centre
+SH1, beside RTA OFFICE, DGQA
+Residency Colony, Tirumalagiri Telangana Hyderabad 500015 8900080519152
+422
+Paramitha Children Hospital For
+Women & Children
+Pillar Number 97, beside Pai
+Eloctronics, Om Vihar Colony,
+Medipally, Canara Nagar, Peerzadiguda
+Telangana Hyderabad 500039 8900080544055
+423 Sri Sri Holistic Hospital
+MIG113 & 114, Rd Number 1,
+Kukatpally Housing Board Colony,
+Kukatpally
+Telangana Hyderabad 500072 8900080164000
+424
+Shree Healthcare Multi Specialty
+Hospital
+H.No.: 2-3-214/156/NR, Opp. Nalla
+Cheruvu, beside kattamaisamma
+Temple
+Telangana Hyderabad 500039 8900080457782
+425 Yashoda Hospitals Kothaguda Telangana Hyderabad 500084 8900080524095
+426 Medicare Hospitals PILLAR NO A 600, PLOT 65 & 66
+MIYAPUR CROSS ROAD
+Telangana Hyderabad 500059 8900080513396
+427 Sri Sai Hospitals 7-45, Near Khaman, Chengicherala
+Main Rd, Medipally Telangana Hyderabad 500098 8900080443679
+428 SAVE Hospitals
+H-NO, 3-13/3, Mallikarjuna Nagar
+Colony,Opp Uppal Depot Peerzadiguda,
+Boduppal
+Telangana Hyderabad 500092 8900080416246
+429 Dr.Harika ENT Hospitals
+#MIG 112, TV colony, Vanasthalipuram
+Main Rd, near Hanuman temple, Phase
+IV
+Telangana Hyderabad 500070 8900080483231
+430 CARE Hospitals
+16-6-104 to 109, Old Kamal Theater
+Complex Chaderghat Road, Opp
+Niagara Hotel, Chaderghat
+Telangana Hyderabad 500024 8900086532892
+431 American Oncology Institute
+First Floor, 1-100/1/CCH, Citizens
+Hospital Rd, near Aparna Sarovar,
+Nalagandla, Serilingampally
+Telangana Hyderabad 500019 8900080159389
+432 Dr P Siva Reddy Eye Hospital
+3-5-886H, Himayat Nagar, near, Road,
+beside volkswagon showroom, Old MLA
+Quarters
+Telangana Hyderabad 500029 8900080160293
+433
+Asian Institute of Nephrology and
+Urology
+ HITEC City, H.No. 1, 92/1/24/A,
+Kukatpally Housing Board Rd, opp.
+Butta Convention, Siddhi Vinayak
+Nagar, HITEC City, Khanammet
+Telangana Hyderabad 500084 8900080488984
+434 Bhrungi Hospitals
+ 5-8-50/93, Nagarjuna Sagar Rd, near
+Venkateswara Swamy Temple,
+Sripuram Colony, Highway, B.N Reddy
+Nagar
+Telangana Hyderabad 500070 8900080482180
+435 Murugun Hospitals
+Metro Station Punjagutta, near Pillar
+A1122 Irrummanzil, Punjagutta Market,
+Punjagutta
+Telangana Hyderabad 500082 8900080540927
+436 Max well hospital Mothi Nagar, Rama Rao Nagar, Moti
+Nagar
+Telangana Hyderabad 500018 8900080444614
+437 Chavan Hospitals 8-7/20, RCI Road, Sai Nagar Colony
+BALAPUR
+Telangana Hyderabad 500005 8900080476189
+438 Sri Swastik Multispecialty Hospital
+Nizampet Rd, beside akshara iit junior
+collage, near bachupalli, chowrastha,
+Bachupally
+Telangana Hyderabad 500090 8900080422230
+439 Asian Vascular hospitals 2b, Road No. 12, Sai Enclave, Sri Ram
+Nagar Colony, Banjara Hills Telangana Hyderabad 500034 8900080527089
+440 Pulse Heart Center MIG 287, 4th Street, opp. Global Edge
+School, K P H B Phase 1, Kukatpally Telangana Hyderabad 500085 8900080443983
+441 Health Valley Hospital
+ Door no. 1-111/4/46 & 48/E, beside
+NISUM Khanamet Road, Kondapur,
+HITEC City
+Telangana Hyderabad 500084 8900080458833
+442
+Rainbow Children's Hospital &
+BirthRight
+Survey No 74, Rainbow Children's
+Hospital & Birthright, Financial District,
+Nanakramguda
+Telangana Hyderabad 500008 8900080558441
+443
+Asian Institute of Nephrology and
+Urology
+16-11-741/C/C/15, Indira Nagar Road
+Near Metro Pillar No: A1517
+Gaddiannaram, Dilsukhnagar
+Telangana Hyderabad 500036 8900080164994
+444 Kamala Hospital
+Plot no 176 sai nagar colony Opp Global
+Indian international school
+PEERZADIGUDA, Uppal
+Telangana Hyderabad 500098 8900080439085
+445 Sia Life Hospital
+Survey No 60 & 70, Plot No 149 & 150,
+Hanuman Nagar, Raghavendra Colony,
+Kondapur
+Telangana Hyderabad 500084 8900080476042
+446
+Sri Lakshmi Hospital for Women
+& Children
+Pochamma Mysamma, Metro pillar no:
+1555, Santhoshi Maatha Temple Rd,
+Chaitanyapuri, Dilsukhnagar
+Telangana Hyderabad 500060 8900080222441
+447 Aadya Eye Care
+Plot no. 1-1-687/8/1/B, 2nd floor,
+Beside Canara Bank, opp. More
+supermarket, Gandhinagar, Kavadiguda
+Telangana Hyderabad 500080 8900080533516
+448 Brundavan Hospitals 10-3-11 1/A, Brindavan late East
+Marredpally, Tukaram Gate Telangana Hyderabad 500026 8900080519534
+449 Asian Spine Hospital 564-A-50-III, Road No. 92, MLA Colony,
+Jubilee Hills Telangana Hyderabad 500096 8900080512351
+450 Pioneer Hospitals SH19, Padmavathi Nagar,
+Hasthinapuram South, Hastinapuram Telangana Hyderabad 500070 8900080476776
+451 RNC Super speciality Hospital Plot-6, KMG Garden Rd, beside chintal
+bus stop, Manikya Nagar, Quthbullapur Telangana Hyderabad 500037 8900080467491
+452 Soumya Multi Speciality Hospital
+opp. New, near Soumya Multi Speciality
+Hospital, P&T Colony, R & D Colony,
+Karkhana
+Telangana Hyderabad 500009 8900080158986
+453 Avasa Hospital H.NO, 1-1-48/B, Lanco Hills Rd, Sri
+Laxmi Nagar Colony, Manikonda Telangana Hyderabad 500089 8900080452558
+454 Preeti Urology & Kidney Hospital
+BHEL, Lingampally, BHEL X Roads, 2-
+82/1/2, BHEL Rd, Near Lingampally Bus
+Stop, Kanukunta, Tara Nagar, Chanda
+Nagar
+Telangana Hyderabad 502032 8900080412859
+455 Preeti Urology & Kidney Hospital
+H.No-2-91/68/TH/627 to, Gachibowli
+Road, opp. Botanical Garden,
+Kothaguda, Kondapur
+Telangana Hyderabad 500081 8900080475151
+456 Ramya Hospitals Plot No.8,9,10 414/50, Main Road, Old
+Bowenpally Cross Rd Telangana Hyderabad 500011 8900080441835
+457 Omega hospitals
+CHR Lane, Rd Number 1, Seven Hills
+Colony, Gachibowli, Hyderabad,
+Telangana 500032
+Telangana Hyderabad 500032 8900080524231
+458 Sravani Hospitals
+Plot no 91, Cyber hills, 94,
+Guttala_Begumpet, Sarojini Naidu
+Nagar, Madhapur
+Telangana Hyderabad 500033 8900080545847
+459 Chethana Hospitals Auto Sai nagar, Road no 2 Telangana Hyderabad 500070 8900080490277
+460 Metrocare Hospital
+ Besides Vadhuvu Designers Studio,
+near JNTU Metro Station, Vasant Nagar,
+Dharma Reddy Colony Phase II, Vasanth
+Nagar, Kukatpally
+Telangana Hyderabad 500085 8900080554351
+461
+Panacea Spine Pain Ortho & Sleep
+Centre
+2-1-24/A, 1, Registration Office Ln,
+behind METRO Supermarket, Surya
+Nagar Colony, Rajnagar Colony, Uppal
+Telangana Hyderabad 500039 8900080512351
+462 Dr.Madhavi's Eye Hospital
+5th floor, Apurupa Kushi, Metro Pillar :
+1710, Beside Madhapur Police Station,
+opposite Benz showroom, Madhapur
+Telangana Hyderabad 500033 8900080552913
+463 Centre For Sight Eye Hospital
+2nd Floor Above Vishal Mega Mart &
+Croma Hive Five Plaza No. 1, 1/A1 ,
+Vanasthalipuram, Near Chintalkunta
+Check Post, adjacent to Pralavi
+Telangana Hyderabad 500070 8900080560857
+464 Anand Hospital H. no 1-9-277/32, Ramnagar Gundu Rd,
+Lalitha Nagar, Adikmet Telangana Hyderabad 500044 8900080491885
+465 Universal Hospital
+Electronic Complex, SUB-REGISTRAR
+OFFICE, B-23/A, ECIL Cross Roads,
+opposite KUSHAIGUDA, North Kamala
+Nagar, Kushaiguda
+Telangana Hyderabad 500062 8900080568006
+466
+Ankura Hospital for Women &
+Children
+Sy no 8 & 163, Narsing Nanakramguda
+Service Rd, opposite to Concu, near to
+Karachi bakery, Chaitanya Enclave,
+Gachibowli
+Telangana Hyderabad 500008 8900080555686
+467 LK HOSPITAL
+4-159 & 4-172, Maruthi Nagar,
+Malkajgiri Telangana Hyderabad 500047 8900080162013
+468 Vijaya Nursing Home
+2-58/8, Police station road, near
+Telephone Exchange, Chanda Nagar Telangana Hyderabad 500050 8900080162273
+469 Zoi Hospitals 7-1-71/A/1, Dharam Karam Road,
+Ameerpet
+Telangana Hyderabad 500016 8900080501119
+470 Sai Deepa Hospital PLOT NO.387,church road, HUDA
+Colony, chandanagar Telangana Hyderabad 500050 8900080497153
+471 Tx Hospitals Road no:12, Raichandani Construction,
+Sri Ram Nagar Colony, Banjara Hills Telangana Hyderabad 500034 8900080548046
+472 Ram Raj Hospitals 57/a, Phase 1, Shapur Nagar, Chinthal,
+Jeedimetla Telangana Hyderabad 500055 8900080161412
+473 Gayathri Hospitals
+PLOT NO - 142, ZP Rd, Venkateshwara
+Colony, Venkateswara Colony, AGRL
+Colony, Hastinapuram
+Telangana Hyderabad 500070 8900080475717
+474 Pragma Hospitals
+5-4-1691, P.No, 4, Sushma, beside Sub
+Registrar Office, Huda Sai Nagar
+Colony, Auto Nagar, Vanasthalipuram
+Telangana Hyderabad 500070 8900080477544
+475 Treatment Range Hospitals MIG-331, Road No. 4, Phase I,
+Kukatpally Telangana Hyderabad 500072 8900080456631
+476 KKR HOSPITALS
+Srinivas Nagar, near pillar no 111,
+Medipally Telangana Hyderabad 500098 8900080525054
+477 RBM Multispeciality Hospital
+Boduppal Rd, Hanuman Nagar Colony,
+Boduppal, Hyderabad, Telangana
+500092
+Telangana Hyderabad 500092 8900080385474
+478 Vindhya Healthcare 13-94 & 95, beside Jagruthi Degree
+College, Sanjay Nagar, Malkajgiri Telangana Hyderabad 500047 8900080564565
+479 Micro ENT Hospital
+Stellar frontiers,4 th, Tolichowki Rd,
+beside Sabza Colony Road, above
+skechers show room, floor
+Telangana Hyderabad 500008 8900080488403
+480 Rex Super Speciality Hospital
+Plot no 99,100, A-Block, Sector-1
+Alkapur Township, Puppalguda,
+Gandipet
+Telangana Hyderabad 500039 8900080502437
+481 Sriven Multispeciality Hospital Plot #47, South, APSEB Colony, Omkar
+Nagar, Hastinapuram
+Telangana Hyderabad 500079 8900080565654
